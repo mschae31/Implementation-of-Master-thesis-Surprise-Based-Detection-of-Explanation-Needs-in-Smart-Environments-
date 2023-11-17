@@ -16,11 +16,6 @@ b = ["test"]
 b.append("test2")
 print(type(b[1]))
 
-if ("test22" in b):
-    print("ja")
-else:
-    print("ne")
 
-b.append("test")
-b[0] = "test0"
-print(b.index("test"))
+
+#test change
