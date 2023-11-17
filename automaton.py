@@ -2,9 +2,9 @@ import simpy
 import random
 import logging
 
-logger_machine = logging.getLogger('coffeemachine')
+logger_machine = logging.getLogger('machine')
 logger_machine.setLevel(logging.INFO)
-handler_machine = logging.FileHandler('coffeemachine.log', mode='w')
+handler_machine = logging.FileHandler('machine.log', mode='w')
 handler_machine.setFormatter(logging.Formatter('%(message)s'))
 logger_machine.addHandler(handler_machine)
 
@@ -14,93 +14,149 @@ handler_user = logging.FileHandler('user.log', mode='w')
 handler_user.setFormatter(logging.Formatter('%(message)s'))
 logger_user.addHandler(handler_user)
 
+logger_multiuser = logging.getLogger('multiuser')
+logger_multiuser.setLevel(logging.INFO)
+handler_multiuser = logging.FileHandler('multiuser.log', mode='w')
+handler_multiuser.setFormatter(logging.Formatter('%(message)s'))
+logger_multiuser.addHandler(handler_multiuser)
 
-class Coffeemachine:
-    def __init__(self, env):
+
+class Machine:
+    def __init__(self, env, name):
         self.env = env
-        self.brewing = None
+        self.process = None
+        self.name = name
+        self.interaction_active = False
+
+    def operation(self):
+        raise NotImplementedError("Subclasses must implement this method")
+
+
+class CoffeeMachine(Machine):
+    def __init__(self, env, name):
+        super().__init__(env, name)
         self.done = 0
         self.failCount = 0
-        self.fail = False
         self.manualStopCount = 0
-        self.manualStop = False
-        self.brewing_active = False  
-        self.coffee_done = False
 
-    def brewing_coffee(self):
-        self.brewing_active = True
+    def operation(self):
         logger_machine.info(f"Starting the brewing")
-        
-        try:
-            yield self.env.timeout(10)
-        except simpy.Interrupt as interrupt:
-            if interrupt.cause != "Stop":
-                raise
+        logger_user.info(f"Pressing the button to start Coffeemachine")
 
-        self.check_ready()
-
-    def check_ready(self):
-        if not (self.fail or self.manualStop):
-            logger_machine.info(f"Coffee finished")
-            logger_user.info(f"Taking the coffee")
-            self.done += 1
-            self.coffee_done = True
-        else:
-            self.fail = False
-            self.manualStop = False
-
-        self.brewing_active = False
-
-    def user_interaction(self):
-        while True:
+        for _ in range(10):
             yield self.env.timeout(1)
-            # Skip one iteration if coffee is done (Since more should not happen in one time unit)
-            if self.coffee_done:
-                self.coffee_done = False
-                continue    
-            if not self.brewing_active:
-                if random.random() < 0.5:
-                    logger_user.info(f"Pressing button to start")
-                    self.brewing = self.env.process(self.brewing_coffee())
-                else:
-                    logger_user.info(f"Doing nothing")
-                    logger_machine.info(f"Doing nothing")
 
+            if random.random() < 0.002:
+                logger_user.info(f"Waiting")
+                logger_machine.info(f"Stopping")
+                self.failCount += 1
+                self.interaction_active = False
+                return
+            elif random.random() < 0.05:
+                logger_user.info(f"Pressing button to stop")
+                logger_machine.info(f"Stopping")
+                self.manualStopCount += 1
+                self.interaction_active = False
+                return
             else:
-                stop_probability = random.random()
-                if stop_probability < 0.001:
-                    logger_user.info(f"Waiting")
-                    logger_machine.info(f"Stopping")
-                    self.failCount += 1
-                    self.fail = True
-                    self.brewing.interrupt(cause="Stop")
-                    self.brewing_active = False
-                elif stop_probability < 0.05:
-                    logger_user.info(f"Pressing button to stop")
-                    logger_machine.info(f"Stopping")
-                    self.manualStopCount += 1
-                    self.manualStop = True
-                    self.brewing.interrupt(cause="Stop")
-                    self.brewing_active = False
-                else:
-                    logger_user.info(f"Waiting")
-                    logger_machine.info(f"Brewing")
+                logger_user.info(f"Waiting")
+                logger_machine.info(f"Brewing")
+
+        yield self.env.timeout(1)
+        logger_machine.info(f"Coffee finished")
+        logger_user.info(f"Taking the coffee")
+        self.done += 1
+        self.interaction_active = False
+
+    def multiuser_operation(self):
+        logger_multiuser.info(f"Coffeemachine makes a sound")
+
+
+class Mixer(Machine):
+    def __init__(self, env, name):
+        super().__init__(env, name)
+        self.mixed = 0
+
+    def operation(self):
+        logger_machine.info(f"Starting the mixing")
+        logger_user.info(f"Pressing the button to start Mixer")
+        for _ in range(3):
+            yield self.env.timeout(1)
+            if random.random() < 0.01:
+                logger_machine.info(f"Turning off")
+                logger_user.info(f"Waiting")
+                self.interaction_active = False
+                return
+            else:
+                logger_machine.info(f"Mixing")
+                logger_user.info(f"Waiting")
+
+        yield self.env.timeout(1)
+        logger_machine.info(f"Mixer finished")
+        logger_user.info(f"Taking the mixed")
+        self.interaction_active = False
+
+    def multiuser_operation(self):
+        logger_multiuser.info(f"Mixer makes a sound")
+
+class Lightswitch(Machine):
+    def __init__(self, env, name):
+        super().__init__(env, name)
+        self.lightson = False
+
+    def operation(self):
+        if self.lightson:
+            logger_user.info(f"Turning lights off")
+            logger_machine.info(f"Lights turn off")
+            self.lightson = False
+        else:
+            logger_user.info(f"Turning lights on")
+            logger_machine.info(f"Lights turn on")
+            self.lightson = True
+        yield self.env.timeout(1)
+        self.interaction_active = False
+
+    def multiuser_operation(self):
+        logger_multiuser.info(f"Light turns red")
+
+
+
+def user_interaction_sequence(env, machines):
+    while True:
+        yield env.timeout(1)
+
+        if not any(machine.interaction_active for machine in machines):
+            selected_machine = random.choice(machines)
+            if random.random() < 0.5:
+                selected_machine.interaction_active = True
+                env.process(selected_machine.operation())
+            else:
+                logger_user.info(f"Doing nothing")
+                logger_machine.info(f"Nothing happens")
+
+        if random.random() < 0.01:
+            inactive_machines = [machine for machine in machines if not machine.interaction_active]
+            selected_machine = random.choice(inactive_machines)
+            selected_machine.multiuser_operation()
+        else:
+            logger_multiuser.info(f"")
 
 
 # Create environment
 env = simpy.Environment()
 
-# Create coffeemachine
-maschine = Coffeemachine(env)
+# Create machines
+coffee_machine = CoffeeMachine(env, "Coffee Machine")
+mixer = Mixer(env, "Mixer")
+lightswitch = Lightswitch(env, "Lightswitch")
 
-# Start user interaction
-env.process(maschine.user_interaction())
+# Start interaction
+env.process(user_interaction_sequence(env, [coffee_machine, mixer, lightswitch]))
 
 # Start simulation
-env.run(until=2000)  # Indicate number of time units
+env.run(until=1600)  # Indicate number of time units
 
 # Print Counts
-print("Coffees made:", maschine.done)
-print("Fail stops:", maschine.failCount)
-print("Manual stops:", maschine.manualStopCount)
-print("Automaton worked")
+print("Coffees made:", coffee_machine.done)
+print("Fail stops:", coffee_machine.failCount)
+print("Manual stops:", coffee_machine.manualStopCount)
