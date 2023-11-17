@@ -23,9 +23,9 @@ plt.legend()
 plt.grid()
 plt.show()
 
-#If sum_alpha=sum what is then the current KLD for event seen first time - fifth time
+#If sum_alpha=sum what is then the current KLD for event seen first time - tenth time
 sum=150
-for i in range(1,5):
+for i in range(1,11):
     print(str((-digamma(i)+np.log(i)+digamma(sum)+np.log(1/sum))*i)) 
 
 #If event was observed "seen-1" times, then the current KLD for sum_alpha 1 - 15
