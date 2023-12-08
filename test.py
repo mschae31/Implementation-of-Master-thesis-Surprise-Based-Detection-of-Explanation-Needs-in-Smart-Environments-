@@ -19,3 +19,17 @@ print(type(b[1]))
 
 print("Second test")
 #test change number 2
+
+string = "test"
+
+print(b)
+
+c=b[0]
+
+print(c)
+
+c="changed"
+print(c)
+print(b)
+b[0]=c
+print(b)

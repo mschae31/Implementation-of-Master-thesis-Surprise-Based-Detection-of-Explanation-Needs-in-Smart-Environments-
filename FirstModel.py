@@ -52,7 +52,7 @@ b[15]+=100"""
 
 
 sum_alpha = sum(a)
-number_events = 2000 # Number of interactions (input-output-combination) that we are observing
+number_events = 200 # Number of interactions (input-output-combination) that we are observing
 
 for i in range(1, number_events):
     rand = np.random.randint(1,5,1)     # Choose randomly the input (what the user is doing)
@@ -105,7 +105,7 @@ time = end - start
 print(f'The execution time is {time}s')
 
 #Plot of categorical distribution (equals the amount of time each event occured):
-"""p=np.zeros(len(b))
+p=np.zeros(len(b))
 for i in range(len(b)):
     p[i] = b[i]/sum(b)
 
@@ -120,7 +120,7 @@ plt.xlabel('category')
 plt.ylabel('probability')
 plt.xticks(categories)
 plt.grid()
-plt.show()"""
+plt.show()
 
 
 

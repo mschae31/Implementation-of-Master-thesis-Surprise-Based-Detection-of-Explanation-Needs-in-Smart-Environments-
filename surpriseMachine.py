@@ -7,7 +7,18 @@ import time
 import sys
 
 with open("input_output.txt", "r") as file:
-    data = file.read().splitlines()
+    lines = file.read().splitlines()
+    event_list = []
+    timestamp_list = []
+    
+    for line in lines:
+        parts = line.split(';')
+
+        logs = parts[0].strip()
+        timestamp = parts[1].strip()
+
+        event_list.append(logs)
+        timestamp_list.append(timestamp)
 
 start = time.time()
 
@@ -60,11 +71,11 @@ b[16]+=100"""
 sum_alpha = sum(a)
 events= []
 
-for i in range(len(data)):
+for i in range(len(event_list)):
 
-    if data[i] not in events:
-        events.append(data[i])
-    index = events.index(data[i])
+    if event_list[i] not in events:
+        events.append(event_list[i])
+    index = events.index(event_list[i])
 
 
     if(b[index]==0):
@@ -76,10 +87,11 @@ for i in range(len(data)):
         sum_alpha += 1     # Sum of alpha of b (posterior)
 
  
-    # Check if it was surprising
-    if(KL_dirichlet(a,b,index,sum_alpha) > 0.51/a[index]): # and a[index]>1): (excludes events first time seen)
-        print("This was surprising! At time "+ str(i+1) + 
-              ", we have event " + str(data[i]) + " with KL " +
+    # Check if it was surprising, but only if not already seen 15 times
+    if b[index] < 15:  #does not rly shorten the runtime
+        if(KL_dirichlet(a,b,index,sum_alpha) > 0.51/a[index]): # and a[index]>1): (excludes events first time seen)
+            print("This was surprising! At time "+ str(timestamp_list[i]) + 
+                ", we have event " + str(event_list[i]) + " with KL " +
                 str(round(KL_dirichlet(a,b,index,sum_alpha)*a[index],3)))   
 
     #Print when coffeemachine fail occurs to check if it was detected as surprising 

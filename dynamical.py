@@ -4,6 +4,7 @@ from scipy.special import gamma
 from scipy import special
 import math
 import time
+import matplotlib.pyplot as plt
 
 start = time.time()
 
@@ -22,8 +23,8 @@ def KL_dirichlet(alpha1, alpha2, index, sum_alpha):
     return term1 + term2
 
 #Alice does not have any previous knowledge -> uniform distribution
-a = np.zeros(1600, dtype="int64")  #Assume uniform-distribution as prior
-b = np.zeros(1600, dtype="int64")
+a = np.zeros(200, dtype="int64")  #Assume uniform-distribution as prior
+b = np.zeros(200, dtype="int64")
 
 #Set 10 "dummy" alphas to 1 to start with sum_alpha=10 and get similar KLDs for all events at the start
 for i in range(len(a)-10,len(a)):
@@ -67,7 +68,7 @@ for i in range(1, number_events):
         event = 6
     elif(rand == 3):    # User waiting for coffee
         rand2 = np.random.randint(1,101,1)
-        if (rand2 < 2):     # 1% chance of stoppping wrongly
+        if (rand2 < 10):     # 1% chance of stoppping wrongly
             event = 12
         else:
             event = 11
@@ -85,8 +86,23 @@ for i in range(1, number_events):
 
  
     # Check if it was surprising
-    if(KL_dirichlet(a,b,index,sum_alpha) > 0.51/a[index]):
-        print("This was surprising! In iteration "+ str(i) + ", we have event " + str(event) + " with KL " + str(KL_dirichlet(a,b,index,sum_alpha)*a[event-1]))   
+    #if(KL_dirichlet(a,b,index,sum_alpha) > 0.51/a[index]):
+    #    print("This was surprising! In iteration "+ str(i) + ", we have event " + str(event) + " with KL " + str(KL_dirichlet(a,b,index,sum_alpha)*a[event-1]))   
+
+
+    #Try out another distance measure
+    p=np.zeros(17)
+    for j in range(17):
+        p[j] = b[j]/sum(b)
+    #print(max(p))
+    if (math.log2(1+max(p)-p[index])> 0.2):
+        print("This was surprising! In iteration "+ str(i) +
+          ", we have event " + str(event) + " with surprise " + str(math.log2(1+max(p)-p[index]))) 
+    """if (event == 12):
+        prob = min(b[10]/(b[10]+b[11]), 0.99)
+        print("This was surprising! In iteration "+ str(i) +
+          ", we have event " + str(event) + " with surprise " + 
+          str(math.log2(1+prob-(1-prob))))"""
 
     #Print when event 12 occurs to check if it was detected as surprising 
     #if(event==12):
@@ -104,6 +120,26 @@ for i in range(1, number_events):
 #event=15
 #b[event-1]=b[event-1]+1
 #print(str(KL_dirichlet(a,b,event-1,sum_alpha+2))
+
+
+#Plot of categorical distribution (equals the amount of time each event occured):
+p=np.zeros(17)
+for i in range(17):
+    p[i] = b[i]/sum(b)
+
+
+categories = list(range(1, 17 + 1))
+
+
+plt.figure(figsize=(8, 6))
+plt.bar(categories, p)
+plt.title('Categorical distribution')
+plt.xlabel('category')
+plt.ylabel('probability')
+plt.xticks(categories)
+plt.grid()
+plt.show()
+
 
 
 end = time.time()
