@@ -1,0 +1,157 @@
+(Waiting for Coffeemachine_Brewing);0;x
+(Doing nothting_Nothing happens);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Doing nothting_Nothing happens);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Doing nothting_Nothing happens);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Pressing the button to start Coffeemachine_Nothing happens);1;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);2;x
+(Waiting for Coffeemachine_Brewing);3;x
+(Taking the coffee_Coffee machine makes a short sound);4;x
+(Pressing the button to start Coffeemachine_Nothing happens);5;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);6;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Time_Smoke detector beeps once);7;x
+(Taking the coffee_Coffee machine makes a short sound);8;x
+(Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Pressing the button to start Coffeemachine_Starting the brewing);9;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Time_Smoke detector beeps once);10;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Waiting for Coffeemachine_Brewing);0;x
+(Taking the coffee_Coffee machine makes a short sound);0;x
+(Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Nothing happens);11;x
+(Switching power on,Pressing the button to start Coffeemachine_Nothing happens);12;x
+(Switching power on,Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Nothing happens);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);13;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Starting the brewing);0;x
+(Switching power on,Pressing the button to start Coffeemachine_Nothing happens);16;x
+(._Smoke detector beeps once);17;0

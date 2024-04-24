@@ -1,0 +1,2472 @@
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);5;0
+(Waiting_Brewing);6;0
+(Pressing button to stop_Stopping);7;0
+(Pressing button to start,Waiting_Starting the brewing);11;0
+(Waiting_Brewing);12;0
+(Waiting_Brewing);13;0
+(Waiting_Brewing);14;0
+(Waiting_Brewing);15;0
+(Waiting_Brewing);16;0
+(Waiting_Brewing);17;0
+(Waiting_Brewing);18;0
+(Waiting_Brewing);19;0
+(Waiting_Brewing);20;0
+(Waiting_Brewing);21;0
+(Pressing button to start,Waiting_Starting the brewing);25;0
+(Waiting_Brewing);26;0
+(Waiting_Brewing);27;0
+(Waiting_Brewing);28;0
+(Waiting_Brewing);29;0
+(Waiting_Brewing);30;0
+(Waiting_Brewing);31;0
+(Waiting_Brewing);32;0
+(Waiting_Brewing);33;0
+(Waiting_Brewing);34;0
+(Waiting_Brewing);35;0
+(Pressing button to start,Waiting_Starting the brewing);41;0
+(Pressing button to stop_Stopping);42;0
+(Pressing button to start,Waiting_Starting the brewing);47;0
+(Waiting_Brewing);48;0
+(Waiting_Brewing);49;0
+(Waiting_Brewing);50;0
+(Waiting_Brewing);51;0
+(Waiting_Brewing);52;0
+(Waiting_Brewing);53;0
+(Waiting_Brewing);54;0
+(Waiting_Brewing);55;0
+(Waiting_Brewing);56;0
+(Waiting_Brewing);57;0
+(Pressing button to start,Waiting_Starting the brewing);64;0
+(Waiting_Brewing);65;0
+(Waiting_Brewing);66;0
+(Waiting_Brewing);67;0
+(Waiting_Brewing);68;0
+(Waiting_Brewing);69;0
+(Waiting_Brewing);70;0
+(Waiting_Brewing);71;0
+(Waiting_Brewing);72;0
+(Waiting_Brewing);73;0
+(Waiting_Brewing);74;0
+(Pressing button to start,Waiting_Starting the brewing);78;0
+(Waiting_Brewing);79;0
+(Waiting_Brewing);80;0
+(Waiting_Brewing);81;0
+(Waiting_Brewing);82;0
+(Waiting_Brewing);83;0
+(Waiting_Brewing);84;0
+(Waiting_Brewing);85;0
+(Waiting_Brewing);86;0
+(Waiting_Brewing);87;0
+(Waiting_Brewing);88;0
+(Pressing button to start,Waiting_Starting the brewing);93;0
+(Waiting_Brewing);94;0
+(Waiting_Brewing);95;0
+(Waiting_Brewing);96;0
+(Waiting_Brewing);97;0
+(Waiting_Brewing);98;0
+(Waiting_Brewing);99;0
+(Waiting_Brewing);100;0
+(Waiting_Brewing);101;0
+(Waiting_Brewing);102;0
+(Waiting_Brewing);103;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);108;0
+(Waiting_Brewing);109;0
+(Waiting_Brewing);110;0
+(Waiting_Brewing);111;0
+(Waiting_Brewing);112;0
+(Waiting_Brewing);113;0
+(Waiting_Brewing);114;0
+(Waiting_Brewing);115;0
+(Waiting_Brewing);116;0
+(Waiting_Brewing);117;0
+(Waiting_Brewing);118;0
+(Pressing button to start,Waiting_Starting the brewing);124;0
+(Waiting_Brewing);125;0
+(Waiting_Brewing);126;0
+(Waiting_Brewing);127;0
+(Waiting_Brewing);128;0
+(Waiting_Brewing);129;0
+(Waiting_Brewing);130;0
+(Waiting_Brewing);131;0
+(Waiting_Brewing);132;0
+(Waiting_Brewing);133;0
+(Waiting_Brewing);134;0
+(Pressing button to start,Waiting_Starting the brewing);137;0
+(Waiting_Brewing);138;0
+(Waiting_Brewing);139;0
+(Waiting_Brewing);140;0
+(Waiting_Brewing);141;0
+(Waiting_Brewing);142;0
+(Waiting_Brewing);143;0
+(Waiting_Brewing);144;0
+(Waiting_Brewing);145;0
+(Waiting_Brewing);146;0
+(Waiting_Brewing);147;0
+(Pressing button to start,Waiting_Starting the brewing);159;0
+(Waiting_Brewing);160;0
+(Waiting_Brewing);161;0
+(Waiting_Brewing);162;0
+(Pressing button to stop_Stopping);163;0
+(Pressing button to start,Waiting_Starting the brewing);168;0
+(Waiting_Brewing);169;0
+(Waiting_Brewing);170;0
+(Waiting_Brewing);171;0
+(Waiting_Brewing);172;0
+(Waiting_Brewing);173;0
+(Waiting_Brewing);174;0
+(Pressing button to stop_Stopping);175;0
+(Pressing button to start,Waiting_Starting the brewing);178;0
+(Waiting_Brewing);179;0
+(Waiting_Brewing);180;0
+(Waiting_Brewing);181;0
+(Waiting_Brewing);182;0
+(Waiting_Brewing);183;0
+(Waiting_Brewing);184;0
+(Waiting_Brewing);185;0
+(Waiting_Brewing);186;0
+(Waiting_Brewing);187;0
+(Waiting_Brewing);188;0
+(Pressing button to start,Waiting_Starting the brewing);192;0
+(Waiting_Brewing);193;0
+(Waiting_Stopping);194;0
+(Pressing button to start,Waiting_Starting the brewing);198;0
+(Waiting_Brewing);199;0
+(Waiting_Brewing);200;0
+(Waiting_Brewing);201;0
+(Waiting_Brewing);202;0
+(Waiting_Brewing);203;0
+(Waiting_Brewing);204;0
+(Waiting_Brewing);205;0
+(Waiting_Brewing);206;0
+(Waiting_Brewing);207;0
+(Pressing button to stop_Stopping);208;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);216;0
+(Waiting_Brewing);217;0
+(Waiting_Brewing);218;0
+(Waiting_Brewing);219;0
+(Waiting_Brewing);220;0
+(Waiting_Brewing);221;0
+(Waiting_Brewing);222;0
+(Waiting_Brewing);223;0
+(Waiting_Brewing);224;0
+(Waiting_Brewing);225;0
+(Waiting_Brewing);226;0
+(Pressing button to start,Waiting_Starting the brewing);233;0
+(Waiting_Brewing);234;0
+(Waiting_Brewing);235;0
+(Waiting_Brewing);236;0
+(Waiting_Brewing);237;0
+(Waiting_Brewing);238;0
+(Waiting_Brewing);239;0
+(Waiting_Brewing);240;0
+(Waiting_Brewing);241;0
+(Waiting_Brewing);242;0
+(Waiting_Brewing);243;0
+(Pressing button to start,Waiting_Starting the brewing);247;0
+(Waiting_Brewing);248;0
+(Pressing button to stop_Stopping);249;0
+(Pressing button to start,Waiting_Starting the brewing);253;0
+(Waiting_Brewing);254;0
+(Waiting_Brewing);255;0
+(Waiting_Brewing);256;0
+(Waiting_Brewing);257;0
+(Waiting_Brewing);258;0
+(Waiting_Brewing);259;0
+(Waiting_Brewing);260;0
+(Waiting_Brewing);261;0
+(Waiting_Brewing);262;0
+(Waiting_Brewing);263;0
+(Pressing button to start,Waiting_Starting the brewing);266;0
+(Waiting_Brewing);267;0
+(Waiting_Brewing);268;0
+(Waiting_Brewing);269;0
+(Waiting_Brewing);270;0
+(Pressing button to stop_Stopping);271;0
+(Pressing button to start,Waiting_Starting the brewing);275;0
+(Waiting_Brewing);276;0
+(Pressing button to stop_Stopping);277;0
+(Pressing button to start,Waiting_Starting the brewing);282;0
+(Waiting_Brewing);283;0
+(Waiting_Brewing);284;0
+(Waiting_Brewing);285;0
+(Waiting_Brewing);286;0
+(Waiting_Brewing);287;0
+(Waiting_Brewing);288;0
+(Waiting_Brewing);289;0
+(Waiting_Brewing);290;0
+(Waiting_Brewing);291;0
+(Waiting_Brewing);292;0
+(Pressing button to start,Waiting_Starting the brewing);295;0
+(Waiting_Brewing);296;0
+(Waiting_Brewing);297;0
+(Waiting_Brewing);298;0
+(Waiting_Brewing);299;0
+(Waiting_Brewing);300;0
+(Waiting_Brewing);301;0
+(Waiting_Brewing);302;0
+(Waiting_Brewing);303;0
+(Waiting_Brewing);304;0
+(Waiting_Brewing);305;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);315;0
+(Waiting_Brewing);316;0
+(Waiting_Brewing);317;0
+(Waiting_Brewing);318;0
+(Waiting_Brewing);319;0
+(Waiting_Brewing);320;0
+(Waiting_Brewing);321;0
+(Waiting_Brewing);322;0
+(Waiting_Brewing);323;0
+(Waiting_Brewing);324;0
+(Waiting_Brewing);325;0
+(Pressing button to start,Waiting_Starting the brewing);329;0
+(Waiting_Brewing);330;0
+(Waiting_Brewing);331;0
+(Waiting_Stopping);332;0
+(Pressing button to start,Waiting_Starting the brewing);336;0
+(Waiting_Brewing);337;0
+(Waiting_Stopping);338;0
+(Pressing button to start,Waiting_Starting the brewing);343;0
+(Waiting_Brewing);344;0
+(Waiting_Brewing);345;0
+(Waiting_Brewing);346;0
+(Waiting_Brewing);347;0
+(Waiting_Stopping);348;0
+(Pressing button to start,Waiting_Starting the brewing);354;0
+(Pressing button to stop_Stopping);355;0
+(Pressing button to start,Waiting_Starting the brewing);363;0
+(Waiting_Brewing);364;0
+(Waiting_Brewing);365;0
+(Waiting_Brewing);366;0
+(Waiting_Brewing);367;0
+(Waiting_Brewing);368;0
+(Waiting_Brewing);369;0
+(Pressing button to stop_Stopping);370;0
+(Pressing button to start,Waiting_Starting the brewing);375;0
+(Waiting_Brewing);376;0
+(Waiting_Brewing);377;0
+(Waiting_Brewing);378;0
+(Waiting_Brewing);379;0
+(Waiting_Brewing);380;0
+(Waiting_Brewing);381;0
+(Waiting_Brewing);382;0
+(Waiting_Brewing);383;0
+(Waiting_Brewing);384;0
+(Waiting_Brewing);385;0
+(Pressing button to start,Waiting_Starting the brewing);392;0
+(Waiting_Brewing);393;0
+(Waiting_Brewing);394;0
+(Waiting_Stopping);395;0
+(Pressing button to start,Waiting_Starting the brewing);400;0
+(Waiting_Brewing);401;0
+(Waiting_Brewing);402;0
+(Waiting_Brewing);403;0
+(Waiting_Brewing);404;0
+(Waiting_Brewing);405;0
+(Waiting_Brewing);406;0
+(Waiting_Brewing);407;0
+(Waiting_Brewing);408;0
+(Waiting_Brewing);409;0
+(Waiting_Brewing);410;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);421;0
+(Waiting_Brewing);422;0
+(Waiting_Brewing);423;0
+(Waiting_Brewing);424;0
+(Waiting_Brewing);425;0
+(Waiting_Brewing);426;0
+(Waiting_Brewing);427;0
+(Waiting_Brewing);428;0
+(Waiting_Brewing);429;0
+(Waiting_Brewing);430;0
+(Waiting_Brewing);431;0
+(Pressing button to start,Waiting_Starting the brewing);435;0
+(Waiting_Brewing);436;0
+(Waiting_Brewing);437;0
+(Waiting_Brewing);438;0
+(Waiting_Brewing);439;0
+(Waiting_Brewing);440;0
+(Waiting_Brewing);441;0
+(Waiting_Brewing);442;0
+(Waiting_Brewing);443;0
+(Waiting_Brewing);444;0
+(Pressing button to stop_Stopping);445;0
+(Pressing button to start,Waiting_Starting the brewing);449;0
+(Waiting_Brewing);450;0
+(Waiting_Brewing);451;0
+(Waiting_Brewing);452;0
+(Waiting_Brewing);453;0
+(Waiting_Brewing);454;0
+(Waiting_Brewing);455;0
+(Waiting_Brewing);456;0
+(Waiting_Brewing);457;0
+(Pressing button to stop_Stopping);458;0
+(Pressing button to start,Waiting_Starting the brewing);465;0
+(Waiting_Brewing);466;0
+(Waiting_Brewing);467;0
+(Waiting_Brewing);468;0
+(Waiting_Brewing);469;0
+(Waiting_Brewing);470;0
+(Waiting_Brewing);471;0
+(Waiting_Brewing);472;0
+(Waiting_Brewing);473;0
+(Waiting_Brewing);474;0
+(Waiting_Brewing);475;0
+(Pressing button to start,Waiting_Starting the brewing);485;0
+(Waiting_Brewing);486;0
+(Pressing button to stop_Stopping);487;0
+(Pressing button to start,Waiting_Starting the brewing);492;0
+(Waiting_Brewing);493;0
+(Waiting_Brewing);494;0
+(Waiting_Brewing);495;0
+(Waiting_Brewing);496;0
+(Waiting_Brewing);497;0
+(Waiting_Brewing);498;0
+(Waiting_Brewing);499;0
+(Waiting_Brewing);500;0
+(Waiting_Brewing);501;0
+(Waiting_Brewing);502;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);508;0
+(Waiting_Brewing);509;0
+(Waiting_Brewing);510;0
+(Waiting_Brewing);511;0
+(Waiting_Brewing);512;0
+(Pressing button to stop_Stopping);513;0
+(Pressing button to start,Waiting_Starting the brewing);520;0
+(Waiting_Brewing);521;0
+(Waiting_Brewing);522;0
+(Waiting_Brewing);523;0
+(Waiting_Brewing);524;0
+(Waiting_Brewing);525;0
+(Waiting_Brewing);526;0
+(Waiting_Brewing);527;0
+(Waiting_Brewing);528;0
+(Waiting_Brewing);529;0
+(Waiting_Brewing);530;0
+(Pressing button to start,Waiting_Starting the brewing);535;0
+(Waiting_Brewing);536;0
+(Waiting_Brewing);537;0
+(Waiting_Brewing);538;0
+(Waiting_Brewing);539;0
+(Waiting_Brewing);540;0
+(Waiting_Brewing);541;0
+(Waiting_Brewing);542;0
+(Waiting_Brewing);543;0
+(Waiting_Brewing);544;0
+(Waiting_Brewing);545;0
+(Pressing button to start,Waiting_Starting the brewing);551;0
+(Waiting_Brewing);552;0
+(Waiting_Brewing);553;0
+(Waiting_Brewing);554;0
+(Waiting_Brewing);555;0
+(Waiting_Brewing);556;0
+(Waiting_Brewing);557;0
+(Waiting_Brewing);558;0
+(Waiting_Brewing);559;0
+(Waiting_Brewing);560;0
+(Waiting_Brewing);561;0
+(Pressing button to start,Waiting_Starting the brewing);568;0
+(Waiting_Brewing);569;0
+(Pressing button to stop_Stopping);570;0
+(Pressing button to start,Waiting_Starting the brewing);575;0
+(Waiting_Brewing);576;0
+(Waiting_Brewing);577;0
+(Waiting_Brewing);578;0
+(Waiting_Brewing);579;0
+(Waiting_Brewing);580;0
+(Waiting_Brewing);581;0
+(Waiting_Brewing);582;0
+(Waiting_Brewing);583;0
+(Waiting_Brewing);584;0
+(Waiting_Brewing);585;0
+(Pressing button to start,Waiting_Starting the brewing);589;0
+(Waiting_Brewing);590;0
+(Waiting_Brewing);591;0
+(Waiting_Brewing);592;0
+(Waiting_Brewing);593;0
+(Waiting_Brewing);594;0
+(Waiting_Brewing);595;0
+(Waiting_Brewing);596;0
+(Waiting_Brewing);597;0
+(Waiting_Brewing);598;0
+(Waiting_Brewing);599;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);603;0
+(Waiting_Brewing);604;0
+(Waiting_Brewing);605;0
+(Waiting_Brewing);606;0
+(Waiting_Brewing);607;0
+(Waiting_Brewing);608;0
+(Waiting_Brewing);609;0
+(Pressing button to stop_Stopping);610;0
+(Pressing button to start,Waiting_Starting the brewing);615;0
+(Waiting_Brewing);616;0
+(Pressing button to stop_Stopping);617;0
+(Pressing button to start,Waiting_Starting the brewing);622;0
+(Waiting_Brewing);623;0
+(Waiting_Brewing);624;0
+(Waiting_Brewing);625;0
+(Waiting_Brewing);626;0
+(Waiting_Brewing);627;0
+(Waiting_Brewing);628;0
+(Waiting_Brewing);629;0
+(Waiting_Brewing);630;0
+(Waiting_Brewing);631;0
+(Waiting_Brewing);632;0
+(Pressing button to start,Waiting_Starting the brewing);646;0
+(Waiting_Brewing);647;0
+(Waiting_Brewing);648;0
+(Waiting_Brewing);649;0
+(Waiting_Brewing);650;0
+(Waiting_Brewing);651;0
+(Pressing button to stop_Stopping);652;0
+(Pressing button to start,Waiting_Starting the brewing);657;0
+(Waiting_Brewing);658;0
+(Waiting_Brewing);659;0
+(Waiting_Brewing);660;0
+(Waiting_Brewing);661;0
+(Waiting_Brewing);662;0
+(Waiting_Brewing);663;0
+(Waiting_Brewing);664;0
+(Waiting_Brewing);665;0
+(Waiting_Brewing);666;0
+(Waiting_Brewing);667;0
+(Pressing button to start,Waiting_Starting the brewing);680;0
+(Waiting_Brewing);681;0
+(Waiting_Brewing);682;0
+(Waiting_Brewing);683;0
+(Waiting_Brewing);684;0
+(Waiting_Brewing);685;0
+(Waiting_Brewing);686;0
+(Waiting_Brewing);687;0
+(Waiting_Brewing);688;0
+(Waiting_Brewing);689;0
+(Waiting_Brewing);690;0
+(Pressing button to start,Waiting_Starting the brewing);701;0
+(Waiting_Brewing);702;0
+(Waiting_Brewing);703;0
+(Waiting_Brewing);704;0
+(Waiting_Brewing);705;0
+(Waiting_Brewing);706;0
+(Waiting_Brewing);707;0
+(Waiting_Brewing);708;0
+(Waiting_Brewing);709;0
+(Waiting_Brewing);710;0
+(Waiting_Brewing);711;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);717;0
+(Waiting_Brewing);718;0
+(Waiting_Brewing);719;0
+(Waiting_Brewing);720;0
+(Waiting_Brewing);721;0
+(Waiting_Brewing);722;0
+(Waiting_Brewing);723;0
+(Waiting_Brewing);724;0
+(Waiting_Brewing);725;0
+(Waiting_Brewing);726;0
+(Waiting_Brewing);727;0
+(Pressing button to start,Waiting_Starting the brewing);736;0
+(Waiting_Brewing);737;0
+(Waiting_Brewing);738;0
+(Waiting_Brewing);739;0
+(Waiting_Brewing);740;0
+(Waiting_Brewing);741;0
+(Waiting_Brewing);742;0
+(Waiting_Brewing);743;0
+(Waiting_Brewing);744;0
+(Waiting_Brewing);745;0
+(Waiting_Brewing);746;0
+(Pressing button to start,Waiting_Starting the brewing);750;0
+(Waiting_Brewing);751;0
+(Waiting_Brewing);752;0
+(Waiting_Brewing);753;0
+(Waiting_Brewing);754;0
+(Pressing button to stop_Stopping);755;0
+(Pressing button to start,Waiting_Starting the brewing);762;0
+(Waiting_Brewing);763;0
+(Waiting_Brewing);764;0
+(Waiting_Brewing);765;0
+(Waiting_Brewing);766;0
+(Waiting_Brewing);767;0
+(Waiting_Brewing);768;0
+(Waiting_Brewing);769;0
+(Waiting_Brewing);770;0
+(Waiting_Brewing);771;0
+(Pressing button to stop_Stopping);772;0
+(Pressing button to start,Waiting_Starting the brewing);780;0
+(Waiting_Brewing);781;0
+(Waiting_Brewing);782;0
+(Waiting_Brewing);783;0
+(Waiting_Brewing);784;0
+(Waiting_Brewing);785;0
+(Waiting_Brewing);786;0
+(Waiting_Brewing);787;0
+(Waiting_Brewing);788;0
+(Waiting_Brewing);789;0
+(Waiting_Brewing);790;0
+(Pressing button to start,Waiting_Starting the brewing);795;0
+(Waiting_Brewing);796;0
+(Waiting_Brewing);797;0
+(Waiting_Brewing);798;0
+(Waiting_Brewing);799;0
+(Waiting_Brewing);800;0
+(Waiting_Brewing);801;0
+(Waiting_Brewing);802;0
+(Waiting_Brewing);803;0
+(Waiting_Brewing);804;0
+(Waiting_Brewing);805;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);815;0
+(Waiting_Brewing);816;0
+(Waiting_Brewing);817;0
+(Waiting_Brewing);818;0
+(Waiting_Brewing);819;0
+(Waiting_Brewing);820;0
+(Waiting_Brewing);821;0
+(Waiting_Brewing);822;0
+(Waiting_Brewing);823;0
+(Waiting_Brewing);824;0
+(Waiting_Brewing);825;0
+(Pressing button to start,Waiting_Starting the brewing);834;0
+(Waiting_Brewing);835;0
+(Waiting_Brewing);836;0
+(Waiting_Brewing);837;0
+(Waiting_Brewing);838;0
+(Pressing button to stop_Stopping);839;0
+(Pressing button to start,Waiting_Starting the brewing);846;0
+(Waiting_Brewing);847;0
+(Waiting_Brewing);848;0
+(Waiting_Brewing);849;0
+(Waiting_Brewing);850;0
+(Pressing button to stop_Stopping);851;0
+(Pressing button to start,Waiting_Starting the brewing);857;0
+(Waiting_Brewing);858;0
+(Waiting_Brewing);859;0
+(Waiting_Brewing);860;0
+(Waiting_Brewing);861;0
+(Waiting_Brewing);862;0
+(Waiting_Brewing);863;0
+(Waiting_Brewing);864;0
+(Waiting_Brewing);865;0
+(Waiting_Brewing);866;0
+(Waiting_Brewing);867;0
+(Pressing button to start,Waiting_Starting the brewing);871;0
+(Waiting_Brewing);872;0
+(Waiting_Brewing);873;0
+(Waiting_Brewing);874;0
+(Waiting_Brewing);875;0
+(Waiting_Brewing);876;0
+(Waiting_Brewing);877;0
+(Waiting_Brewing);878;0
+(Waiting_Brewing);879;0
+(Waiting_Brewing);880;0
+(Waiting_Brewing);881;0
+(Pressing button to start,Waiting_Starting the brewing);889;0
+(Waiting_Brewing);890;0
+(Waiting_Brewing);891;0
+(Waiting_Brewing);892;0
+(Pressing button to stop_Stopping);893;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);907;0
+(Pressing button to stop_Stopping);908;0
+(Pressing button to start,Waiting_Starting the brewing);915;0
+(Waiting_Brewing);916;0
+(Waiting_Brewing);917;0
+(Waiting_Brewing);918;0
+(Waiting_Brewing);919;0
+(Waiting_Brewing);920;0
+(Waiting_Brewing);921;0
+(Waiting_Brewing);922;0
+(Waiting_Brewing);923;0
+(Waiting_Brewing);924;0
+(Waiting_Brewing);925;0
+(Pressing button to start,Waiting_Starting the brewing);933;0
+(Waiting_Brewing);934;0
+(Waiting_Brewing);935;0
+(Waiting_Brewing);936;0
+(Waiting_Brewing);937;0
+(Waiting_Brewing);938;0
+(Waiting_Brewing);939;0
+(Waiting_Brewing);940;0
+(Waiting_Brewing);941;0
+(Waiting_Brewing);942;0
+(Waiting_Brewing);943;0
+(Pressing button to start,Waiting_Starting the brewing);947;0
+(Waiting_Brewing);948;0
+(Waiting_Brewing);949;0
+(Waiting_Brewing);950;0
+(Pressing button to stop_Stopping);951;0
+(Pressing button to start,Waiting_Starting the brewing);956;0
+(Waiting_Brewing);957;0
+(Waiting_Brewing);958;0
+(Waiting_Brewing);959;0
+(Waiting_Brewing);960;0
+(Waiting_Brewing);961;0
+(Waiting_Brewing);962;0
+(Waiting_Brewing);963;0
+(Waiting_Brewing);964;0
+(Waiting_Brewing);965;0
+(Waiting_Brewing);966;0
+(Pressing button to start,Waiting_Starting the brewing);972;0
+(Waiting_Brewing);973;0
+(Waiting_Brewing);974;0
+(Waiting_Brewing);975;0
+(Waiting_Brewing);976;0
+(Waiting_Brewing);977;0
+(Pressing button to stop_Stopping);978;0
+(Pressing button to start,Waiting_Starting the brewing);985;0
+(Waiting_Brewing);986;0
+(Waiting_Brewing);987;0
+(Waiting_Brewing);988;0
+(Waiting_Brewing);989;0
+(Waiting_Brewing);990;0
+(Waiting_Brewing);991;0
+(Waiting_Brewing);992;0
+(Waiting_Brewing);993;0
+(Waiting_Brewing);994;0
+(Waiting_Brewing);995;0
+(Pressing button to start,Waiting_Starting the brewing);1001;0
+(Waiting_Brewing);1002;0
+(Waiting_Brewing);1003;0
+(Waiting_Brewing);1004;0
+(Waiting_Brewing);1005;0
+(Waiting_Brewing);1006;0
+(Waiting_Brewing);1007;0
+(Waiting_Brewing);1008;0
+(Waiting_Brewing);1009;0
+(Waiting_Brewing);1010;0
+(Waiting_Brewing);1011;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1017;0
+(Waiting_Brewing);1018;0
+(Waiting_Brewing);1019;0
+(Waiting_Brewing);1020;0
+(Waiting_Brewing);1021;0
+(Waiting_Brewing);1022;0
+(Waiting_Brewing);1023;0
+(Waiting_Brewing);1024;0
+(Waiting_Brewing);1025;0
+(Waiting_Brewing);1026;0
+(Waiting_Brewing);1027;0
+(Pressing button to start,Waiting_Starting the brewing);1033;0
+(Waiting_Brewing);1034;0
+(Waiting_Brewing);1035;0
+(Waiting_Brewing);1036;0
+(Waiting_Brewing);1037;0
+(Waiting_Brewing);1038;0
+(Pressing button to stop_Stopping);1039;0
+(Pressing button to start,Waiting_Starting the brewing);1044;0
+(Waiting_Brewing);1045;0
+(Waiting_Brewing);1046;0
+(Waiting_Brewing);1047;0
+(Waiting_Brewing);1048;0
+(Waiting_Brewing);1049;0
+(Waiting_Brewing);1050;0
+(Waiting_Brewing);1051;0
+(Waiting_Brewing);1052;0
+(Waiting_Brewing);1053;0
+(Waiting_Brewing);1054;0
+(Pressing button to start,Waiting_Starting the brewing);1058;0
+(Waiting_Brewing);1059;0
+(Waiting_Brewing);1060;0
+(Waiting_Brewing);1061;0
+(Waiting_Brewing);1062;0
+(Waiting_Brewing);1063;0
+(Waiting_Brewing);1064;0
+(Waiting_Brewing);1065;0
+(Waiting_Brewing);1066;0
+(Waiting_Brewing);1067;0
+(Waiting_Brewing);1068;0
+(Pressing button to start,Waiting_Starting the brewing);1071;0
+(Waiting_Brewing);1072;0
+(Waiting_Brewing);1073;0
+(Waiting_Brewing);1074;0
+(Waiting_Brewing);1075;0
+(Waiting_Brewing);1076;0
+(Waiting_Brewing);1077;0
+(Waiting_Brewing);1078;0
+(Waiting_Brewing);1079;0
+(Waiting_Brewing);1080;0
+(Waiting_Brewing);1081;0
+(Pressing button to start,Waiting_Starting the brewing);1085;0
+(Waiting_Brewing);1086;0
+(Waiting_Brewing);1087;0
+(Waiting_Brewing);1088;0
+(Pressing button to stop_Stopping);1089;0
+(Pressing button to start,Waiting_Starting the brewing);1098;0
+(Pressing button to stop_Stopping);1099;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1104;0
+(Waiting_Brewing);1105;0
+(Waiting_Brewing);1106;0
+(Waiting_Brewing);1107;0
+(Waiting_Brewing);1108;0
+(Waiting_Brewing);1109;0
+(Waiting_Brewing);1110;0
+(Waiting_Brewing);1111;0
+(Waiting_Brewing);1112;0
+(Pressing button to stop_Stopping);1113;0
+(Pressing button to start,Waiting_Starting the brewing);1123;0
+(Waiting_Brewing);1124;0
+(Waiting_Brewing);1125;0
+(Waiting_Brewing);1126;0
+(Waiting_Brewing);1127;0
+(Waiting_Brewing);1128;0
+(Waiting_Brewing);1129;0
+(Waiting_Brewing);1130;0
+(Waiting_Brewing);1131;0
+(Waiting_Brewing);1132;0
+(Waiting_Brewing);1133;0
+(Pressing button to start,Waiting_Starting the brewing);1141;0
+(Waiting_Brewing);1142;0
+(Waiting_Brewing);1143;0
+(Waiting_Brewing);1144;0
+(Waiting_Brewing);1145;0
+(Waiting_Brewing);1146;0
+(Waiting_Brewing);1147;0
+(Waiting_Brewing);1148;0
+(Waiting_Brewing);1149;0
+(Waiting_Brewing);1150;0
+(Waiting_Brewing);1151;0
+(Pressing button to start,Waiting_Starting the brewing);1161;0
+(Waiting_Brewing);1162;0
+(Waiting_Brewing);1163;0
+(Waiting_Brewing);1164;0
+(Waiting_Brewing);1165;0
+(Waiting_Brewing);1166;0
+(Waiting_Brewing);1167;0
+(Waiting_Brewing);1168;0
+(Waiting_Brewing);1169;0
+(Waiting_Brewing);1170;0
+(Waiting_Brewing);1171;0
+(Pressing button to start,Waiting_Starting the brewing);1179;0
+(Waiting_Brewing);1180;0
+(Waiting_Brewing);1181;0
+(Waiting_Brewing);1182;0
+(Waiting_Brewing);1183;0
+(Waiting_Brewing);1184;0
+(Waiting_Brewing);1185;0
+(Waiting_Brewing);1186;0
+(Waiting_Brewing);1187;0
+(Waiting_Brewing);1188;0
+(Waiting_Brewing);1189;0
+(Pressing button to start,Waiting_Starting the brewing);1195;0
+(Waiting_Brewing);1196;0
+(Waiting_Brewing);1197;0
+(Waiting_Brewing);1198;0
+(Waiting_Brewing);1199;0
+(Waiting_Brewing);1200;0
+(Waiting_Brewing);1201;0
+(Waiting_Brewing);1202;0
+(Waiting_Brewing);1203;0
+(Waiting_Brewing);1204;0
+(Waiting_Brewing);1205;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1211;0
+(Waiting_Brewing);1212;0
+(Waiting_Brewing);1213;0
+(Waiting_Brewing);1214;0
+(Waiting_Brewing);1215;0
+(Waiting_Brewing);1216;0
+(Waiting_Brewing);1217;0
+(Waiting_Brewing);1218;0
+(Waiting_Brewing);1219;0
+(Waiting_Brewing);1220;0
+(Waiting_Brewing);1221;0
+(Pressing button to start,Waiting_Starting the brewing);1227;0
+(Waiting_Brewing);1228;0
+(Waiting_Brewing);1229;0
+(Waiting_Brewing);1230;0
+(Waiting_Brewing);1231;0
+(Waiting_Brewing);1232;0
+(Waiting_Brewing);1233;0
+(Waiting_Brewing);1234;0
+(Waiting_Brewing);1235;0
+(Pressing button to stop_Stopping);1236;0
+(Pressing button to start,Waiting_Starting the brewing);1239;0
+(Waiting_Brewing);1240;0
+(Waiting_Brewing);1241;0
+(Pressing button to stop_Stopping);1242;0
+(Pressing button to start,Waiting_Starting the brewing);1251;0
+(Waiting_Brewing);1252;0
+(Waiting_Brewing);1253;0
+(Waiting_Brewing);1254;0
+(Waiting_Brewing);1255;0
+(Waiting_Brewing);1256;0
+(Waiting_Brewing);1257;0
+(Waiting_Brewing);1258;0
+(Waiting_Brewing);1259;0
+(Waiting_Brewing);1260;0
+(Waiting_Brewing);1261;0
+(Pressing button to start,Waiting_Starting the brewing);1268;0
+(Waiting_Brewing);1269;0
+(Waiting_Brewing);1270;0
+(Waiting_Brewing);1271;0
+(Waiting_Brewing);1272;0
+(Waiting_Brewing);1273;0
+(Waiting_Brewing);1274;0
+(Waiting_Brewing);1275;0
+(Waiting_Brewing);1276;0
+(Waiting_Brewing);1277;0
+(Waiting_Brewing);1278;0
+(Pressing button to start,Waiting_Starting the brewing);1290;0
+(Waiting_Brewing);1291;0
+(Waiting_Brewing);1292;0
+(Waiting_Brewing);1293;0
+(Waiting_Brewing);1294;0
+(Waiting_Brewing);1295;0
+(Waiting_Brewing);1296;0
+(Waiting_Brewing);1297;0
+(Waiting_Brewing);1298;0
+(Waiting_Brewing);1299;0
+(Waiting_Brewing);1300;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1304;0
+(Waiting_Stopping);1305;0
+(Pressing button to start,Waiting_Starting the brewing);1309;0
+(Waiting_Brewing);1310;0
+(Waiting_Brewing);1311;0
+(Waiting_Brewing);1312;0
+(Waiting_Brewing);1313;0
+(Waiting_Brewing);1314;0
+(Waiting_Brewing);1315;0
+(Waiting_Brewing);1316;0
+(Waiting_Brewing);1317;0
+(Waiting_Brewing);1318;0
+(Waiting_Brewing);1319;0
+(Pressing button to start,Waiting_Starting the brewing);1323;0
+(Waiting_Brewing);1324;0
+(Waiting_Brewing);1325;0
+(Waiting_Brewing);1326;0
+(Waiting_Brewing);1327;0
+(Waiting_Brewing);1328;0
+(Waiting_Brewing);1329;0
+(Waiting_Brewing);1330;0
+(Waiting_Brewing);1331;0
+(Waiting_Brewing);1332;0
+(Waiting_Brewing);1333;0
+(Pressing button to start,Waiting_Starting the brewing);1337;0
+(Waiting_Brewing);1338;0
+(Waiting_Brewing);1339;0
+(Waiting_Brewing);1340;0
+(Waiting_Brewing);1341;0
+(Waiting_Brewing);1342;0
+(Waiting_Brewing);1343;0
+(Waiting_Brewing);1344;0
+(Waiting_Brewing);1345;0
+(Waiting_Brewing);1346;0
+(Waiting_Brewing);1347;0
+(Pressing button to start,Waiting_Starting the brewing);1355;0
+(Waiting_Brewing);1356;0
+(Waiting_Brewing);1357;0
+(Waiting_Brewing);1358;0
+(Waiting_Brewing);1359;0
+(Waiting_Brewing);1360;0
+(Waiting_Brewing);1361;0
+(Waiting_Brewing);1362;0
+(Waiting_Brewing);1363;0
+(Waiting_Brewing);1364;0
+(Waiting_Brewing);1365;0
+(Pressing button to start,Waiting_Starting the brewing);1370;0
+(Waiting_Brewing);1371;0
+(Waiting_Brewing);1372;0
+(Waiting_Brewing);1373;0
+(Waiting_Brewing);1374;0
+(Waiting_Brewing);1375;0
+(Waiting_Brewing);1376;0
+(Waiting_Brewing);1377;0
+(Waiting_Brewing);1378;0
+(Waiting_Brewing);1379;0
+(Waiting_Brewing);1380;0
+(Pressing button to start,Waiting_Starting the brewing);1385;0
+(Waiting_Brewing);1386;0
+(Waiting_Brewing);1387;0
+(Waiting_Brewing);1388;0
+(Waiting_Stopping);1389;0
+(Pressing button to start,Waiting_Starting the brewing);1393;0
+(Waiting_Brewing);1394;0
+(Waiting_Brewing);1395;0
+(Waiting_Brewing);1396;0
+(Waiting_Brewing);1397;0
+(Waiting_Brewing);1398;0
+(Pressing button to stop_Stopping);1399;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1404;0
+(Waiting_Brewing);1405;0
+(Waiting_Brewing);1406;0
+(Waiting_Brewing);1407;0
+(Waiting_Brewing);1408;0
+(Waiting_Brewing);1409;0
+(Waiting_Brewing);1410;0
+(Waiting_Brewing);1411;0
+(Waiting_Brewing);1412;0
+(Waiting_Brewing);1413;0
+(Waiting_Brewing);1414;0
+(Pressing button to start,Waiting_Starting the brewing);1419;0
+(Waiting_Brewing);1420;0
+(Waiting_Brewing);1421;0
+(Waiting_Brewing);1422;0
+(Waiting_Brewing);1423;0
+(Waiting_Brewing);1424;0
+(Waiting_Brewing);1425;0
+(Waiting_Brewing);1426;0
+(Pressing button to stop_Stopping);1427;0
+(Pressing button to start,Waiting_Starting the brewing);1431;0
+(Waiting_Brewing);1432;0
+(Waiting_Brewing);1433;0
+(Pressing button to stop_Stopping);1434;0
+(Pressing button to start,Waiting_Starting the brewing);1441;0
+(Waiting_Brewing);1442;0
+(Waiting_Brewing);1443;0
+(Waiting_Brewing);1444;0
+(Waiting_Brewing);1445;0
+(Waiting_Brewing);1446;0
+(Waiting_Brewing);1447;0
+(Waiting_Brewing);1448;0
+(Waiting_Brewing);1449;0
+(Waiting_Brewing);1450;0
+(Waiting_Brewing);1451;0
+(Pressing button to start,Waiting_Starting the brewing);1455;0
+(Waiting_Brewing);1456;0
+(Waiting_Brewing);1457;0
+(Waiting_Brewing);1458;0
+(Waiting_Brewing);1459;0
+(Waiting_Stopping);1460;0
+(Pressing button to start,Waiting_Starting the brewing);1470;0
+(Waiting_Brewing);1471;0
+(Waiting_Brewing);1472;0
+(Waiting_Brewing);1473;0
+(Waiting_Brewing);1474;0
+(Waiting_Brewing);1475;0
+(Waiting_Brewing);1476;0
+(Waiting_Brewing);1477;0
+(Waiting_Brewing);1478;0
+(Waiting_Brewing);1479;0
+(Waiting_Brewing);1480;0
+(Pressing button to start,Waiting_Starting the brewing);1487;0
+(Waiting_Brewing);1488;0
+(Waiting_Brewing);1489;0
+(Waiting_Brewing);1490;0
+(Waiting_Brewing);1491;0
+(Waiting_Brewing);1492;0
+(Waiting_Brewing);1493;0
+(Waiting_Brewing);1494;0
+(Waiting_Stopping);1495;0
+(Pressing button to start,Waiting_Starting the brewing);1501;0
+(Waiting_Brewing);1502;0
+(Waiting_Brewing);1503;0
+(Waiting_Brewing);1504;0
+(Waiting_Brewing);1505;0
+(Waiting_Brewing);1506;0
+(Waiting_Brewing);1507;0
+(Waiting_Brewing);1508;0
+(Waiting_Brewing);1509;0
+(Waiting_Brewing);1510;0
+(Waiting_Brewing);1511;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1516;0
+(Pressing button to stop_Stopping);1517;0
+(Pressing button to start,Waiting_Starting the brewing);1522;0
+(Waiting_Brewing);1523;0
+(Waiting_Brewing);1524;0
+(Waiting_Brewing);1525;0
+(Waiting_Brewing);1526;0
+(Waiting_Brewing);1527;0
+(Waiting_Brewing);1528;0
+(Waiting_Brewing);1529;0
+(Waiting_Brewing);1530;0
+(Waiting_Brewing);1531;0
+(Waiting_Brewing);1532;0
+(Pressing button to start,Waiting_Starting the brewing);1538;0
+(Waiting_Brewing);1539;0
+(Waiting_Brewing);1540;0
+(Waiting_Brewing);1541;0
+(Waiting_Brewing);1542;0
+(Waiting_Brewing);1543;0
+(Waiting_Brewing);1544;0
+(Waiting_Brewing);1545;0
+(Waiting_Brewing);1546;0
+(Waiting_Brewing);1547;0
+(Waiting_Brewing);1548;0
+(Pressing button to start,Waiting_Starting the brewing);1553;0
+(Waiting_Brewing);1554;0
+(Waiting_Brewing);1555;0
+(Waiting_Brewing);1556;0
+(Waiting_Brewing);1557;0
+(Waiting_Brewing);1558;0
+(Waiting_Brewing);1559;0
+(Waiting_Brewing);1560;0
+(Waiting_Brewing);1561;0
+(Waiting_Brewing);1562;0
+(Waiting_Brewing);1563;0
+(Pressing button to start,Waiting_Starting the brewing);1568;0
+(Waiting_Brewing);1569;0
+(Pressing button to stop_Stopping);1570;0
+(Pressing button to start,Waiting_Starting the brewing);1573;0
+(Waiting_Brewing);1574;0
+(Waiting_Brewing);1575;0
+(Waiting_Brewing);1576;0
+(Waiting_Brewing);1577;0
+(Waiting_Brewing);1578;0
+(Waiting_Brewing);1579;0
+(Waiting_Brewing);1580;0
+(Waiting_Brewing);1581;0
+(Waiting_Brewing);1582;0
+(Waiting_Brewing);1583;0
+(Pressing button to start,Waiting_Starting the brewing);1594;0
+(Waiting_Brewing);1595;0
+(Waiting_Brewing);1596;0
+(Pressing button to stop_Stopping);1597;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1611;0
+(Waiting_Brewing);1612;0
+(Waiting_Brewing);1613;0
+(Waiting_Brewing);1614;0
+(Pressing button to stop_Stopping);1615;0
+(Pressing button to start,Waiting_Starting the brewing);1619;0
+(Waiting_Brewing);1620;0
+(Waiting_Brewing);1621;0
+(Waiting_Brewing);1622;0
+(Waiting_Brewing);1623;0
+(Waiting_Brewing);1624;0
+(Waiting_Brewing);1625;0
+(Waiting_Brewing);1626;0
+(Waiting_Brewing);1627;0
+(Waiting_Brewing);1628;0
+(Waiting_Brewing);1629;0
+(Pressing button to start,Waiting_Starting the brewing);1633;0
+(Waiting_Brewing);1634;0
+(Waiting_Brewing);1635;0
+(Waiting_Stopping);1636;0
+(Pressing button to start,Waiting_Starting the brewing);1641;0
+(Waiting_Brewing);1642;0
+(Waiting_Brewing);1643;0
+(Waiting_Brewing);1644;0
+(Waiting_Brewing);1645;0
+(Waiting_Brewing);1646;0
+(Waiting_Brewing);1647;0
+(Waiting_Brewing);1648;0
+(Waiting_Brewing);1649;0
+(Waiting_Brewing);1650;0
+(Waiting_Brewing);1651;0
+(Pressing button to start,Waiting_Starting the brewing);1664;0
+(Waiting_Brewing);1665;0
+(Waiting_Brewing);1666;0
+(Waiting_Brewing);1667;0
+(Waiting_Brewing);1668;0
+(Waiting_Brewing);1669;0
+(Waiting_Brewing);1670;0
+(Waiting_Brewing);1671;0
+(Waiting_Brewing);1672;0
+(Waiting_Brewing);1673;0
+(Waiting_Brewing);1674;0
+(Pressing button to start,Waiting_Starting the brewing);1682;0
+(Waiting_Brewing);1683;0
+(Waiting_Brewing);1684;0
+(Waiting_Brewing);1685;0
+(Waiting_Brewing);1686;0
+(Waiting_Brewing);1687;0
+(Waiting_Brewing);1688;0
+(Waiting_Brewing);1689;0
+(Waiting_Brewing);1690;0
+(Waiting_Brewing);1691;0
+(Waiting_Brewing);1692;0
+(Pressing button to start,Waiting_Starting the brewing);1698;0
+(Waiting_Brewing);1699;0
+(Waiting_Brewing);1700;0
+(Waiting_Brewing);1701;0
+(Waiting_Brewing);1702;0
+(Waiting_Brewing);1703;0
+(Waiting_Brewing);1704;0
+(Waiting_Brewing);1705;0
+(Waiting_Brewing);1706;0
+(Waiting_Brewing);1707;0
+(Waiting_Brewing);1708;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1714;0
+(Waiting_Brewing);1715;0
+(Waiting_Stopping);1716;0
+(Pressing button to start,Waiting_Starting the brewing);1719;0
+(Waiting_Brewing);1720;0
+(Waiting_Brewing);1721;0
+(Waiting_Stopping);1722;0
+(Pressing button to start,Waiting_Starting the brewing);1725;0
+(Waiting_Brewing);1726;0
+(Waiting_Brewing);1727;0
+(Waiting_Brewing);1728;0
+(Waiting_Brewing);1729;0
+(Pressing button to stop_Stopping);1730;0
+(Pressing button to start,Waiting_Starting the brewing);1738;0
+(Waiting_Brewing);1739;0
+(Waiting_Brewing);1740;0
+(Waiting_Brewing);1741;0
+(Waiting_Brewing);1742;0
+(Waiting_Brewing);1743;0
+(Waiting_Brewing);1744;0
+(Waiting_Brewing);1745;0
+(Waiting_Brewing);1746;0
+(Waiting_Brewing);1747;0
+(Waiting_Brewing);1748;0
+(Pressing button to start,Waiting_Starting the brewing);1753;0
+(Waiting_Brewing);1754;0
+(Waiting_Brewing);1755;0
+(Waiting_Brewing);1756;0
+(Waiting_Brewing);1757;0
+(Waiting_Brewing);1758;0
+(Waiting_Brewing);1759;0
+(Waiting_Brewing);1760;0
+(Waiting_Brewing);1761;0
+(Waiting_Brewing);1762;0
+(Waiting_Brewing);1763;0
+(Pressing button to start,Waiting_Starting the brewing);1767;0
+(Waiting_Brewing);1768;0
+(Waiting_Brewing);1769;0
+(Waiting_Brewing);1770;0
+(Waiting_Brewing);1771;0
+(Waiting_Brewing);1772;0
+(Waiting_Brewing);1773;0
+(Pressing button to stop_Stopping);1774;0
+(Pressing button to start,Waiting_Starting the brewing);1779;0
+(Waiting_Brewing);1780;0
+(Waiting_Brewing);1781;0
+(Waiting_Brewing);1782;0
+(Waiting_Brewing);1783;0
+(Waiting_Brewing);1784;0
+(Waiting_Brewing);1785;0
+(Waiting_Brewing);1786;0
+(Waiting_Brewing);1787;0
+(Waiting_Brewing);1788;0
+(Waiting_Brewing);1789;0
+(Pressing button to start,Waiting_Starting the brewing);1793;0
+(Waiting_Brewing);1794;0
+(Waiting_Brewing);1795;0
+(Waiting_Brewing);1796;0
+(Waiting_Brewing);1797;0
+(Waiting_Brewing);1798;0
+(Pressing button to stop_Stopping);1799;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1805;0
+(Waiting_Brewing);1806;0
+(Waiting_Brewing);1807;0
+(Waiting_Brewing);1808;0
+(Waiting_Brewing);1809;0
+(Waiting_Brewing);1810;0
+(Waiting_Brewing);1811;0
+(Waiting_Brewing);1812;0
+(Waiting_Brewing);1813;0
+(Waiting_Brewing);1814;0
+(Waiting_Brewing);1815;0
+(Pressing button to start,Waiting_Starting the brewing);1821;0
+(Waiting_Brewing);1822;0
+(Waiting_Brewing);1823;0
+(Waiting_Brewing);1824;0
+(Waiting_Brewing);1825;0
+(Waiting_Brewing);1826;0
+(Waiting_Brewing);1827;0
+(Waiting_Brewing);1828;0
+(Waiting_Brewing);1829;0
+(Waiting_Brewing);1830;0
+(Waiting_Brewing);1831;0
+(Pressing button to start,Waiting_Starting the brewing);1836;0
+(Waiting_Brewing);1837;0
+(Waiting_Brewing);1838;0
+(Waiting_Brewing);1839;0
+(Waiting_Brewing);1840;0
+(Waiting_Brewing);1841;0
+(Waiting_Brewing);1842;0
+(Waiting_Brewing);1843;0
+(Waiting_Brewing);1844;0
+(Waiting_Brewing);1845;0
+(Waiting_Brewing);1846;0
+(Pressing button to start,Waiting_Starting the brewing);1850;0
+(Waiting_Brewing);1851;0
+(Waiting_Brewing);1852;0
+(Waiting_Brewing);1853;0
+(Waiting_Brewing);1854;0
+(Waiting_Brewing);1855;0
+(Waiting_Stopping);1856;0
+(Pressing button to start,Waiting_Starting the brewing);1864;0
+(Pressing button to stop_Stopping);1865;0
+(Pressing button to start,Waiting_Starting the brewing);1872;0
+(Waiting_Brewing);1873;0
+(Waiting_Brewing);1874;0
+(Waiting_Brewing);1875;0
+(Waiting_Brewing);1876;0
+(Waiting_Brewing);1877;0
+(Waiting_Brewing);1878;0
+(Waiting_Brewing);1879;0
+(Waiting_Brewing);1880;0
+(Waiting_Brewing);1881;0
+(Waiting_Brewing);1882;0
+(Pressing button to start,Waiting_Starting the brewing);1887;0
+(Pressing button to stop_Stopping);1888;0
+(Pressing button to start,Waiting_Starting the brewing);1896;0
+(Waiting_Brewing);1897;0
+(Waiting_Brewing);1898;0
+(Waiting_Brewing);1899;0
+(Waiting_Brewing);1900;0
+(Waiting_Brewing);1901;0
+(Waiting_Brewing);1902;0
+(Waiting_Brewing);1903;0
+(Waiting_Brewing);1904;0
+(Waiting_Brewing);1905;0
+(Waiting_Brewing);1906;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);1920;0
+(Waiting_Brewing);1921;0
+(Waiting_Brewing);1922;0
+(Waiting_Brewing);1923;0
+(Waiting_Brewing);1924;0
+(Waiting_Brewing);1925;0
+(Waiting_Brewing);1926;0
+(Waiting_Brewing);1927;0
+(Waiting_Brewing);1928;0
+(Waiting_Brewing);1929;0
+(Waiting_Brewing);1930;0
+(Pressing button to start,Waiting_Starting the brewing);1935;0
+(Waiting_Brewing);1936;0
+(Waiting_Brewing);1937;0
+(Pressing button to stop_Stopping);1938;0
+(Pressing button to start,Waiting_Starting the brewing);1943;0
+(Waiting_Brewing);1944;0
+(Waiting_Brewing);1945;0
+(Waiting_Brewing);1946;0
+(Waiting_Brewing);1947;0
+(Waiting_Brewing);1948;0
+(Pressing button to stop_Stopping);1949;0
+(Pressing button to start,Waiting_Starting the brewing);1957;0
+(Waiting_Brewing);1958;0
+(Waiting_Brewing);1959;0
+(Waiting_Brewing);1960;0
+(Waiting_Brewing);1961;0
+(Waiting_Brewing);1962;0
+(Waiting_Brewing);1963;0
+(Waiting_Brewing);1964;0
+(Waiting_Brewing);1965;0
+(Waiting_Brewing);1966;0
+(Waiting_Brewing);1967;0
+(Pressing button to start,Waiting_Starting the brewing);1972;0
+(Waiting_Brewing);1973;0
+(Waiting_Brewing);1974;0
+(Waiting_Brewing);1975;0
+(Pressing button to stop_Stopping);1976;0
+(Pressing button to start,Waiting_Starting the brewing);1986;0
+(Waiting_Brewing);1987;0
+(Waiting_Brewing);1988;0
+(Waiting_Brewing);1989;0
+(Waiting_Brewing);1990;0
+(Waiting_Brewing);1991;0
+(Waiting_Brewing);1992;0
+(Waiting_Brewing);1993;0
+(Waiting_Brewing);1994;0
+(Waiting_Brewing);1995;0
+(Waiting_Brewing);1996;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2006;0
+(Waiting_Brewing);2007;0
+(Waiting_Brewing);2008;0
+(Waiting_Brewing);2009;0
+(Waiting_Brewing);2010;0
+(Waiting_Brewing);2011;0
+(Waiting_Brewing);2012;0
+(Waiting_Brewing);2013;0
+(Waiting_Brewing);2014;0
+(Waiting_Brewing);2015;0
+(Waiting_Brewing);2016;0
+(Pressing button to start,Waiting_Starting the brewing);2023;0
+(Waiting_Brewing);2024;0
+(Waiting_Brewing);2025;0
+(Waiting_Brewing);2026;0
+(Waiting_Brewing);2027;0
+(Waiting_Brewing);2028;0
+(Waiting_Brewing);2029;0
+(Waiting_Brewing);2030;0
+(Waiting_Brewing);2031;0
+(Waiting_Brewing);2032;0
+(Waiting_Brewing);2033;0
+(Pressing button to start,Waiting_Starting the brewing);2040;0
+(Waiting_Brewing);2041;0
+(Waiting_Brewing);2042;0
+(Waiting_Brewing);2043;0
+(Waiting_Brewing);2044;0
+(Waiting_Brewing);2045;0
+(Waiting_Brewing);2046;0
+(Waiting_Stopping);2047;0
+(Pressing button to start,Waiting_Starting the brewing);2060;0
+(Waiting_Brewing);2061;0
+(Waiting_Brewing);2062;0
+(Waiting_Brewing);2063;0
+(Waiting_Brewing);2064;0
+(Waiting_Brewing);2065;0
+(Waiting_Stopping);2066;0
+(Pressing button to start,Waiting_Starting the brewing);2079;0
+(Waiting_Brewing);2080;0
+(Waiting_Brewing);2081;0
+(Waiting_Brewing);2082;0
+(Waiting_Brewing);2083;0
+(Waiting_Brewing);2084;0
+(Waiting_Brewing);2085;0
+(Waiting_Brewing);2086;0
+(Waiting_Brewing);2087;0
+(Waiting_Brewing);2088;0
+(Waiting_Brewing);2089;0
+(Pressing button to start,Waiting_Starting the brewing);2093;0
+(Waiting_Brewing);2094;0
+(Waiting_Brewing);2095;0
+(Waiting_Brewing);2096;0
+(Waiting_Brewing);2097;0
+(Waiting_Brewing);2098;0
+(Waiting_Brewing);2099;0
+(Waiting_Brewing);2100;0
+(Waiting_Brewing);2101;0
+(Waiting_Brewing);2102;0
+(Waiting_Brewing);2103;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2110;0
+(Waiting_Brewing);2111;0
+(Waiting_Brewing);2112;0
+(Waiting_Brewing);2113;0
+(Waiting_Brewing);2114;0
+(Waiting_Brewing);2115;0
+(Waiting_Brewing);2116;0
+(Waiting_Brewing);2117;0
+(Waiting_Brewing);2118;0
+(Waiting_Brewing);2119;0
+(Waiting_Brewing);2120;0
+(Pressing button to start,Waiting_Starting the brewing);2125;0
+(Waiting_Brewing);2126;0
+(Waiting_Brewing);2127;0
+(Waiting_Brewing);2128;0
+(Waiting_Brewing);2129;0
+(Waiting_Brewing);2130;0
+(Pressing button to stop_Stopping);2131;0
+(Pressing button to start,Waiting_Starting the brewing);2134;0
+(Waiting_Brewing);2135;0
+(Waiting_Brewing);2136;0
+(Pressing button to stop_Stopping);2137;0
+(Pressing button to start,Waiting_Starting the brewing);2143;0
+(Waiting_Brewing);2144;0
+(Waiting_Brewing);2145;0
+(Waiting_Brewing);2146;0
+(Pressing button to stop_Stopping);2147;0
+(Pressing button to start,Waiting_Starting the brewing);2153;0
+(Waiting_Brewing);2154;0
+(Waiting_Brewing);2155;0
+(Waiting_Brewing);2156;0
+(Waiting_Brewing);2157;0
+(Waiting_Brewing);2158;0
+(Waiting_Brewing);2159;0
+(Waiting_Brewing);2160;0
+(Waiting_Brewing);2161;0
+(Waiting_Brewing);2162;0
+(Waiting_Brewing);2163;0
+(Pressing button to start,Waiting_Starting the brewing);2167;0
+(Waiting_Brewing);2168;0
+(Waiting_Brewing);2169;0
+(Waiting_Brewing);2170;0
+(Waiting_Brewing);2171;0
+(Waiting_Brewing);2172;0
+(Waiting_Brewing);2173;0
+(Waiting_Brewing);2174;0
+(Waiting_Brewing);2175;0
+(Waiting_Brewing);2176;0
+(Waiting_Brewing);2177;0
+(Pressing button to start,Waiting_Starting the brewing);2183;0
+(Waiting_Brewing);2184;0
+(Waiting_Brewing);2185;0
+(Waiting_Stopping);2186;0
+(Pressing button to start,Waiting_Starting the brewing);2195;0
+(Waiting_Brewing);2196;0
+(Pressing button to stop_Stopping);2197;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2204;0
+(Waiting_Brewing);2205;0
+(Waiting_Brewing);2206;0
+(Waiting_Brewing);2207;0
+(Waiting_Brewing);2208;0
+(Waiting_Brewing);2209;0
+(Waiting_Brewing);2210;0
+(Waiting_Brewing);2211;0
+(Waiting_Brewing);2212;0
+(Waiting_Brewing);2213;0
+(Waiting_Brewing);2214;0
+(Pressing button to start,Waiting_Starting the brewing);2218;0
+(Waiting_Brewing);2219;0
+(Waiting_Brewing);2220;0
+(Waiting_Brewing);2221;0
+(Waiting_Brewing);2222;0
+(Waiting_Brewing);2223;0
+(Waiting_Brewing);2224;0
+(Waiting_Brewing);2225;0
+(Waiting_Brewing);2226;0
+(Waiting_Brewing);2227;0
+(Waiting_Brewing);2228;0
+(Pressing button to start,Waiting_Starting the brewing);2236;0
+(Waiting_Brewing);2237;0
+(Waiting_Brewing);2238;0
+(Waiting_Brewing);2239;0
+(Waiting_Brewing);2240;0
+(Waiting_Brewing);2241;0
+(Waiting_Brewing);2242;0
+(Waiting_Brewing);2243;0
+(Waiting_Brewing);2244;0
+(Waiting_Brewing);2245;0
+(Waiting_Brewing);2246;0
+(Pressing button to start,Waiting_Starting the brewing);2252;0
+(Waiting_Brewing);2253;0
+(Waiting_Brewing);2254;0
+(Waiting_Brewing);2255;0
+(Waiting_Brewing);2256;0
+(Waiting_Brewing);2257;0
+(Waiting_Brewing);2258;0
+(Waiting_Brewing);2259;0
+(Waiting_Brewing);2260;0
+(Waiting_Brewing);2261;0
+(Waiting_Brewing);2262;0
+(Pressing button to start,Waiting_Starting the brewing);2266;0
+(Waiting_Brewing);2267;0
+(Waiting_Brewing);2268;0
+(Waiting_Brewing);2269;0
+(Waiting_Brewing);2270;0
+(Waiting_Brewing);2271;0
+(Waiting_Brewing);2272;0
+(Waiting_Brewing);2273;0
+(Waiting_Brewing);2274;0
+(Waiting_Brewing);2275;0
+(Waiting_Brewing);2276;0
+(Pressing button to start,Waiting_Starting the brewing);2282;0
+(Waiting_Brewing);2283;0
+(Waiting_Brewing);2284;0
+(Waiting_Brewing);2285;0
+(Waiting_Brewing);2286;0
+(Pressing button to stop_Stopping);2287;0
+(Pressing button to start,Waiting_Starting the brewing);2290;0
+(Waiting_Brewing);2291;0
+(Waiting_Brewing);2292;0
+(Waiting_Brewing);2293;0
+(Waiting_Brewing);2294;0
+(Waiting_Brewing);2295;0
+(Waiting_Brewing);2296;0
+(Waiting_Brewing);2297;0
+(Waiting_Brewing);2298;0
+(Waiting_Brewing);2299;0
+(Waiting_Brewing);2300;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2305;0
+(Waiting_Brewing);2306;0
+(Waiting_Brewing);2307;0
+(Waiting_Brewing);2308;0
+(Waiting_Brewing);2309;0
+(Waiting_Brewing);2310;0
+(Waiting_Brewing);2311;0
+(Waiting_Brewing);2312;0
+(Waiting_Brewing);2313;0
+(Waiting_Brewing);2314;0
+(Waiting_Brewing);2315;0
+(Pressing button to start,Waiting_Starting the brewing);2321;0
+(Waiting_Brewing);2322;0
+(Waiting_Brewing);2323;0
+(Waiting_Brewing);2324;0
+(Waiting_Brewing);2325;0
+(Waiting_Brewing);2326;0
+(Waiting_Stopping);2327;0
+(Pressing button to start,Waiting_Starting the brewing);2332;0
+(Waiting_Brewing);2333;0
+(Waiting_Brewing);2334;0
+(Waiting_Brewing);2335;0
+(Waiting_Brewing);2336;0
+(Waiting_Brewing);2337;0
+(Waiting_Brewing);2338;0
+(Waiting_Brewing);2339;0
+(Waiting_Brewing);2340;0
+(Waiting_Brewing);2341;0
+(Waiting_Brewing);2342;0
+(Pressing button to start,Waiting_Starting the brewing);2347;0
+(Waiting_Brewing);2348;0
+(Waiting_Brewing);2349;0
+(Waiting_Brewing);2350;0
+(Waiting_Brewing);2351;0
+(Waiting_Brewing);2352;0
+(Waiting_Brewing);2353;0
+(Waiting_Brewing);2354;0
+(Waiting_Brewing);2355;0
+(Waiting_Brewing);2356;0
+(Waiting_Brewing);2357;0
+(Pressing button to start,Waiting_Starting the brewing);2362;0
+(Waiting_Brewing);2363;0
+(Waiting_Brewing);2364;0
+(Waiting_Brewing);2365;0
+(Waiting_Brewing);2366;0
+(Waiting_Brewing);2367;0
+(Waiting_Brewing);2368;0
+(Waiting_Brewing);2369;0
+(Waiting_Brewing);2370;0
+(Waiting_Brewing);2371;0
+(Waiting_Brewing);2372;0
+(Pressing button to start,Waiting_Starting the brewing);2376;0
+(Waiting_Brewing);2377;0
+(Waiting_Brewing);2378;0
+(Waiting_Brewing);2379;0
+(Waiting_Brewing);2380;0
+(Waiting_Brewing);2381;0
+(Waiting_Brewing);2382;0
+(Waiting_Brewing);2383;0
+(Waiting_Brewing);2384;0
+(Waiting_Brewing);2385;0
+(Waiting_Brewing);2386;0
+(Pressing button to start,Waiting_Starting the brewing);2389;0
+(Waiting_Stopping);2390;0
+(Pressing button to start,Waiting_Starting the brewing);2400;0
+(Waiting_Brewing);2401;0
+(Waiting_Brewing);2402;0
+(Waiting_Brewing);2403;0
+(Pressing button to stop_Stopping);2404;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2410;0
+(Waiting_Brewing);2411;0
+(Waiting_Brewing);2412;0
+(Waiting_Brewing);2413;0
+(Waiting_Brewing);2414;0
+(Waiting_Brewing);2415;0
+(Waiting_Brewing);2416;0
+(Waiting_Brewing);2417;0
+(Waiting_Brewing);2418;0
+(Waiting_Brewing);2419;0
+(Waiting_Brewing);2420;0
+(Pressing button to start,Waiting_Starting the brewing);2428;0
+(Waiting_Brewing);2429;0
+(Waiting_Brewing);2430;0
+(Waiting_Brewing);2431;0
+(Waiting_Brewing);2432;0
+(Waiting_Brewing);2433;0
+(Waiting_Brewing);2434;0
+(Pressing button to stop_Stopping);2435;0
+(Pressing button to start,Waiting_Starting the brewing);2442;0
+(Waiting_Brewing);2443;0
+(Pressing button to stop_Stopping);2444;0
+(Pressing button to start,Waiting_Starting the brewing);2451;0
+(Waiting_Brewing);2452;0
+(Waiting_Brewing);2453;0
+(Waiting_Brewing);2454;0
+(Waiting_Brewing);2455;0
+(Waiting_Brewing);2456;0
+(Waiting_Brewing);2457;0
+(Waiting_Brewing);2458;0
+(Waiting_Brewing);2459;0
+(Waiting_Brewing);2460;0
+(Waiting_Brewing);2461;0
+(Pressing button to start,Waiting_Starting the brewing);2465;0
+(Waiting_Brewing);2466;0
+(Waiting_Brewing);2467;0
+(Waiting_Brewing);2468;0
+(Waiting_Brewing);2469;0
+(Waiting_Brewing);2470;0
+(Waiting_Brewing);2471;0
+(Waiting_Brewing);2472;0
+(Waiting_Brewing);2473;0
+(Waiting_Brewing);2474;0
+(Waiting_Brewing);2475;0
+(Pressing button to start,Waiting_Starting the brewing);2479;0
+(Waiting_Brewing);2480;0
+(Waiting_Brewing);2481;0
+(Waiting_Brewing);2482;0
+(Waiting_Brewing);2483;0
+(Waiting_Brewing);2484;0
+(Waiting_Brewing);2485;0
+(Waiting_Brewing);2486;0
+(Waiting_Brewing);2487;0
+(Waiting_Brewing);2488;0
+(Waiting_Brewing);2489;0
+(Pressing button to start,Waiting_Starting the brewing);2496;0
+(Waiting_Brewing);2497;0
+(Waiting_Brewing);2498;0
+(Waiting_Brewing);2499;0
+(Waiting_Brewing);2500;0
+(Waiting_Brewing);2501;0
+(Waiting_Brewing);2502;0
+(Waiting_Brewing);2503;0
+(Waiting_Brewing);2504;0
+(Waiting_Brewing);2505;0
+(Waiting_Brewing);2506;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2516;0
+(Waiting_Brewing);2517;0
+(Waiting_Brewing);2518;0
+(Waiting_Brewing);2519;0
+(Waiting_Brewing);2520;0
+(Waiting_Brewing);2521;0
+(Waiting_Brewing);2522;0
+(Waiting_Brewing);2523;0
+(Waiting_Brewing);2524;0
+(Waiting_Brewing);2525;0
+(Waiting_Brewing);2526;0
+(Pressing button to start,Waiting_Starting the brewing);2535;0
+(Waiting_Brewing);2536;0
+(Waiting_Brewing);2537;0
+(Waiting_Brewing);2538;0
+(Waiting_Brewing);2539;0
+(Waiting_Brewing);2540;0
+(Waiting_Brewing);2541;0
+(Waiting_Brewing);2542;0
+(Waiting_Brewing);2543;0
+(Waiting_Brewing);2544;0
+(Waiting_Brewing);2545;0
+(Pressing button to start,Waiting_Starting the brewing);2552;0
+(Waiting_Brewing);2553;0
+(Waiting_Brewing);2554;0
+(Pressing button to stop_Stopping);2555;0
+(Pressing button to start,Waiting_Starting the brewing);2560;0
+(Waiting_Brewing);2561;0
+(Waiting_Brewing);2562;0
+(Waiting_Brewing);2563;0
+(Waiting_Brewing);2564;0
+(Waiting_Brewing);2565;0
+(Waiting_Brewing);2566;0
+(Waiting_Brewing);2567;0
+(Waiting_Brewing);2568;0
+(Waiting_Brewing);2569;0
+(Waiting_Brewing);2570;0
+(Pressing button to start,Waiting_Starting the brewing);2575;0
+(Waiting_Brewing);2576;0
+(Pressing button to stop_Stopping);2577;0
+(Pressing button to start,Waiting_Starting the brewing);2586;0
+(Waiting_Brewing);2587;0
+(Waiting_Brewing);2588;0
+(Waiting_Brewing);2589;0
+(Waiting_Brewing);2590;0
+(Waiting_Brewing);2591;0
+(Waiting_Brewing);2592;0
+(Waiting_Brewing);2593;0
+(Waiting_Brewing);2594;0
+(Waiting_Brewing);2595;0
+(Waiting_Brewing);2596;0
+(Pressing button to start,Waiting_Starting the brewing);2599;0
+(Waiting_Brewing);2600;0
+(Waiting_Brewing);2601;0
+(Waiting_Brewing);2602;0
+(Waiting_Brewing);2603;0
+(Waiting_Brewing);2604;0
+(Waiting_Brewing);2605;0
+(Waiting_Brewing);2606;0
+(Waiting_Brewing);2607;0
+(Waiting_Brewing);2608;0
+(Waiting_Brewing);2609;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2622;0
+(Waiting_Brewing);2623;0
+(Waiting_Stopping);2624;0
+(Pressing button to start,Waiting_Starting the brewing);2631;0
+(Waiting_Brewing);2632;0
+(Waiting_Brewing);2633;0
+(Waiting_Brewing);2634;0
+(Waiting_Brewing);2635;0
+(Waiting_Brewing);2636;0
+(Waiting_Brewing);2637;0
+(Waiting_Brewing);2638;0
+(Waiting_Brewing);2639;0
+(Waiting_Brewing);2640;0
+(Waiting_Brewing);2641;0
+(Pressing button to start,Waiting_Starting the brewing);2646;0
+(Waiting_Brewing);2647;0
+(Waiting_Brewing);2648;0
+(Waiting_Brewing);2649;0
+(Waiting_Brewing);2650;0
+(Pressing button to stop_Stopping);2651;0
+(Pressing button to start,Waiting_Starting the brewing);2654;0
+(Waiting_Brewing);2655;0
+(Waiting_Brewing);2656;0
+(Waiting_Brewing);2657;0
+(Waiting_Brewing);2658;0
+(Pressing button to stop_Stopping);2659;0
+(Pressing button to start,Waiting_Starting the brewing);2670;0
+(Waiting_Brewing);2671;0
+(Waiting_Brewing);2672;0
+(Waiting_Brewing);2673;0
+(Waiting_Brewing);2674;0
+(Pressing button to stop_Stopping);2675;0
+(Pressing button to start,Waiting_Starting the brewing);2688;0
+(Waiting_Brewing);2689;0
+(Waiting_Brewing);2690;0
+(Waiting_Brewing);2691;0
+(Waiting_Brewing);2692;0
+(Waiting_Brewing);2693;0
+(Waiting_Brewing);2694;0
+(Waiting_Brewing);2695;0
+(Waiting_Brewing);2696;0
+(Waiting_Brewing);2697;0
+(Waiting_Brewing);2698;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2703;0
+(Waiting_Brewing);2704;0
+(Waiting_Brewing);2705;0
+(Waiting_Brewing);2706;0
+(Waiting_Brewing);2707;0
+(Waiting_Brewing);2708;0
+(Waiting_Brewing);2709;0
+(Waiting_Brewing);2710;0
+(Waiting_Brewing);2711;0
+(Waiting_Brewing);2712;0
+(Waiting_Brewing);2713;0
+(Pressing button to start,Waiting_Starting the brewing);2721;0
+(Waiting_Brewing);2722;0
+(Waiting_Brewing);2723;0
+(Waiting_Brewing);2724;0
+(Waiting_Brewing);2725;0
+(Waiting_Brewing);2726;0
+(Waiting_Brewing);2727;0
+(Waiting_Brewing);2728;0
+(Waiting_Brewing);2729;0
+(Waiting_Brewing);2730;0
+(Waiting_Brewing);2731;0
+(Pressing button to start,Waiting_Starting the brewing);2735;0
+(Waiting_Brewing);2736;0
+(Waiting_Brewing);2737;0
+(Waiting_Brewing);2738;0
+(Waiting_Brewing);2739;0
+(Waiting_Brewing);2740;0
+(Waiting_Brewing);2741;0
+(Waiting_Brewing);2742;0
+(Waiting_Brewing);2743;0
+(Waiting_Brewing);2744;0
+(Pressing button to stop_Stopping);2745;0
+(Pressing button to start,Waiting_Starting the brewing);2750;0
+(Waiting_Brewing);2751;0
+(Waiting_Brewing);2752;0
+(Waiting_Brewing);2753;0
+(Waiting_Brewing);2754;0
+(Waiting_Brewing);2755;0
+(Waiting_Brewing);2756;0
+(Waiting_Brewing);2757;0
+(Waiting_Brewing);2758;0
+(Waiting_Brewing);2759;0
+(Waiting_Brewing);2760;0
+(Pressing button to start,Waiting_Starting the brewing);2765;0
+(Waiting_Brewing);2766;0
+(Waiting_Brewing);2767;0
+(Waiting_Brewing);2768;0
+(Waiting_Brewing);2769;0
+(Waiting_Brewing);2770;0
+(Waiting_Brewing);2771;0
+(Waiting_Brewing);2772;0
+(Waiting_Brewing);2773;0
+(Waiting_Brewing);2774;0
+(Waiting_Brewing);2775;0
+(Pressing button to start,Waiting_Starting the brewing);2784;0
+(Pressing button to stop_Stopping);2785;0
+(Pressing button to start,Waiting_Starting the brewing);2798;0
+(Waiting_Brewing);2799;0
+(Waiting_Brewing);2800;0
+(Waiting_Brewing);2801;0
+(Waiting_Brewing);2802;0
+(Waiting_Brewing);2803;0
+(Waiting_Brewing);2804;0
+(Waiting_Brewing);2805;0
+(Waiting_Brewing);2806;0
+(Waiting_Brewing);2807;0
+(Waiting_Brewing);2808;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2813;0
+(Waiting_Brewing);2814;0
+(Waiting_Brewing);2815;0
+(Waiting_Brewing);2816;0
+(Waiting_Brewing);2817;0
+(Pressing button to stop_Stopping);2818;0
+(Pressing button to start,Waiting_Starting the brewing);2823;0
+(Waiting_Brewing);2824;0
+(Waiting_Brewing);2825;0
+(Waiting_Brewing);2826;0
+(Waiting_Brewing);2827;0
+(Waiting_Brewing);2828;0
+(Waiting_Brewing);2829;0
+(Waiting_Brewing);2830;0
+(Waiting_Brewing);2831;0
+(Waiting_Brewing);2832;0
+(Waiting_Brewing);2833;0
+(Pressing button to start,Waiting_Starting the brewing);2853;0
+(Waiting_Brewing);2854;0
+(Waiting_Brewing);2855;0
+(Waiting_Brewing);2856;0
+(Waiting_Brewing);2857;0
+(Waiting_Brewing);2858;0
+(Waiting_Brewing);2859;0
+(Waiting_Brewing);2860;0
+(Waiting_Brewing);2861;0
+(Waiting_Brewing);2862;0
+(Waiting_Brewing);2863;0
+(Pressing button to start,Waiting_Starting the brewing);2868;0
+(Waiting_Brewing);2869;0
+(Waiting_Brewing);2870;0
+(Waiting_Brewing);2871;0
+(Waiting_Brewing);2872;0
+(Waiting_Brewing);2873;0
+(Waiting_Brewing);2874;0
+(Waiting_Brewing);2875;0
+(Waiting_Brewing);2876;0
+(Waiting_Brewing);2877;0
+(Waiting_Brewing);2878;0
+(Pressing button to start,Waiting_Starting the brewing);2885;0
+(Waiting_Brewing);2886;0
+(Waiting_Brewing);2887;0
+(Waiting_Brewing);2888;0
+(Waiting_Brewing);2889;0
+(Waiting_Brewing);2890;0
+(Waiting_Brewing);2891;0
+(Pressing button to stop_Stopping);2892;0
+(Pressing button to start,Waiting_Starting the brewing);2897;0
+(Waiting_Brewing);2898;0
+(Waiting_Brewing);2899;0
+(Waiting_Brewing);2900;0
+(Waiting_Brewing);2901;0
+(Waiting_Brewing);2902;0
+(Waiting_Brewing);2903;0
+(Waiting_Brewing);2904;0
+(Waiting_Brewing);2905;0
+(Waiting_Brewing);2906;0
+(Waiting_Brewing);2907;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);2913;0
+(Waiting_Brewing);2914;0
+(Waiting_Brewing);2915;0
+(Waiting_Brewing);2916;0
+(Waiting_Brewing);2917;0
+(Waiting_Brewing);2918;0
+(Waiting_Brewing);2919;0
+(Waiting_Brewing);2920;0
+(Waiting_Brewing);2921;0
+(Waiting_Brewing);2922;0
+(Waiting_Brewing);2923;0
+(Pressing button to start,Waiting_Starting the brewing);2929;0
+(Waiting_Brewing);2930;0
+(Waiting_Brewing);2931;0
+(Waiting_Brewing);2932;0
+(Waiting_Brewing);2933;0
+(Waiting_Brewing);2934;0
+(Pressing button to stop_Stopping);2935;0
+(Pressing button to start,Waiting_Starting the brewing);2939;0
+(Waiting_Brewing);2940;0
+(Waiting_Brewing);2941;0
+(Waiting_Brewing);2942;0
+(Waiting_Brewing);2943;0
+(Pressing button to stop_Stopping);2944;0
+(Pressing button to start,Waiting_Starting the brewing);2950;0
+(Waiting_Brewing);2951;0
+(Waiting_Brewing);2952;0
+(Waiting_Brewing);2953;0
+(Waiting_Brewing);2954;0
+(Waiting_Brewing);2955;0
+(Waiting_Brewing);2956;0
+(Waiting_Brewing);2957;0
+(Waiting_Brewing);2958;0
+(Waiting_Brewing);2959;0
+(Waiting_Brewing);2960;0
+(Pressing button to start,Waiting_Starting the brewing);2970;0
+(Waiting_Brewing);2971;0
+(Waiting_Brewing);2972;0
+(Waiting_Brewing);2973;0
+(Waiting_Brewing);2974;0
+(Waiting_Brewing);2975;0
+(Waiting_Brewing);2976;0
+(Waiting_Brewing);2977;0
+(Waiting_Brewing);2978;0
+(Waiting_Brewing);2979;0
+(Waiting_Brewing);2980;0
+(Pressing button to start,Waiting_Starting the brewing);2984;0
+(Waiting_Brewing);2985;0
+(Waiting_Brewing);2986;0
+(Waiting_Brewing);2987;0
+(Waiting_Brewing);2988;0
+(Waiting_Brewing);2989;0
+(Waiting_Brewing);2990;0
+(Waiting_Brewing);2991;0
+(Waiting_Brewing);2992;0
+(Waiting_Brewing);2993;0
+(Waiting_Brewing);2994;0
+(Pressing button to start,Waiting_Starting the brewing);2999;0
+(Waiting_Brewing);3000;0
+(Waiting_Brewing);3001;0
+(Waiting_Brewing);3002;0
+(Waiting_Brewing);3003;0
+(Waiting_Brewing);3004;0
+(Pressing button to stop_Stopping);3005;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3017;0
+(Waiting_Brewing);3018;0
+(Waiting_Brewing);3019;0
+(Waiting_Brewing);3020;0
+(Pressing button to stop_Stopping);3021;0
+(Pressing button to start,Waiting_Starting the brewing);3026;0
+(Waiting_Brewing);3027;0
+(Waiting_Brewing);3028;0
+(Waiting_Brewing);3029;0
+(Waiting_Brewing);3030;0
+(Waiting_Brewing);3031;0
+(Waiting_Brewing);3032;0
+(Waiting_Brewing);3033;0
+(Waiting_Brewing);3034;0
+(Waiting_Brewing);3035;0
+(Waiting_Brewing);3036;0
+(Pressing button to start,Waiting_Starting the brewing);3040;0
+(Waiting_Brewing);3041;0
+(Waiting_Brewing);3042;0
+(Pressing button to stop_Stopping);3043;0
+(Pressing button to start,Waiting_Starting the brewing);3047;0
+(Waiting_Brewing);3048;0
+(Waiting_Brewing);3049;0
+(Waiting_Brewing);3050;0
+(Waiting_Brewing);3051;0
+(Pressing button to stop_Stopping);3052;0
+(Pressing button to start,Waiting_Starting the brewing);3056;0
+(Waiting_Brewing);3057;0
+(Waiting_Brewing);3058;0
+(Waiting_Brewing);3059;0
+(Waiting_Brewing);3060;0
+(Waiting_Brewing);3061;0
+(Waiting_Brewing);3062;0
+(Waiting_Brewing);3063;0
+(Waiting_Brewing);3064;0
+(Waiting_Brewing);3065;0
+(Waiting_Brewing);3066;0
+(Pressing button to start,Waiting_Starting the brewing);3074;0
+(Waiting_Brewing);3075;0
+(Waiting_Brewing);3076;0
+(Waiting_Brewing);3077;0
+(Waiting_Brewing);3078;0
+(Waiting_Brewing);3079;0
+(Waiting_Brewing);3080;0
+(Waiting_Brewing);3081;0
+(Waiting_Brewing);3082;0
+(Pressing button to stop_Stopping);3083;0
+(Pressing button to start,Waiting_Starting the brewing);3088;0
+(Waiting_Brewing);3089;0
+(Waiting_Stopping);3090;0
+(Pressing button to start,Waiting_Starting the brewing);3095;0
+(Waiting_Brewing);3096;0
+(Waiting_Brewing);3097;0
+(Waiting_Brewing);3098;0
+(Waiting_Brewing);3099;0
+(Waiting_Brewing);3100;0
+(Waiting_Brewing);3101;0
+(Waiting_Brewing);3102;0
+(Waiting_Brewing);3103;0
+(Waiting_Brewing);3104;0
+(Waiting_Brewing);3105;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3111;0
+(Waiting_Brewing);3112;0
+(Waiting_Brewing);3113;0
+(Waiting_Brewing);3114;0
+(Waiting_Brewing);3115;0
+(Waiting_Brewing);3116;0
+(Waiting_Brewing);3117;0
+(Waiting_Brewing);3118;0
+(Waiting_Brewing);3119;0
+(Waiting_Brewing);3120;0
+(Waiting_Brewing);3121;0
+(Pressing button to start,Waiting_Starting the brewing);3124;0
+(Waiting_Brewing);3125;0
+(Waiting_Stopping);3126;0
+(Pressing button to start,Waiting_Starting the brewing);3132;0
+(Waiting_Brewing);3133;0
+(Waiting_Brewing);3134;0
+(Waiting_Brewing);3135;0
+(Waiting_Brewing);3136;0
+(Waiting_Brewing);3137;0
+(Waiting_Brewing);3138;0
+(Waiting_Brewing);3139;0
+(Waiting_Brewing);3140;0
+(Waiting_Brewing);3141;0
+(Waiting_Brewing);3142;0
+(Pressing button to start,Waiting_Starting the brewing);3147;0
+(Waiting_Brewing);3148;0
+(Waiting_Brewing);3149;0
+(Waiting_Brewing);3150;0
+(Waiting_Brewing);3151;0
+(Waiting_Brewing);3152;0
+(Waiting_Brewing);3153;0
+(Waiting_Brewing);3154;0
+(Waiting_Brewing);3155;0
+(Waiting_Brewing);3156;0
+(Waiting_Brewing);3157;0
+(Pressing button to start,Waiting_Starting the brewing);3168;0
+(Waiting_Brewing);3169;0
+(Waiting_Brewing);3170;0
+(Waiting_Brewing);3171;0
+(Waiting_Brewing);3172;0
+(Waiting_Brewing);3173;0
+(Waiting_Brewing);3174;0
+(Pressing button to stop_Stopping);3175;0
+(Pressing button to start,Waiting_Starting the brewing);3179;0
+(Waiting_Brewing);3180;0
+(Waiting_Brewing);3181;0
+(Waiting_Brewing);3182;0
+(Waiting_Brewing);3183;0
+(Pressing button to stop_Stopping);3184;0
+(Pressing button to start,Waiting_Starting the brewing);3189;0
+(Waiting_Brewing);3190;0
+(Waiting_Brewing);3191;0
+(Waiting_Brewing);3192;0
+(Waiting_Brewing);3193;0
+(Waiting_Brewing);3194;0
+(Waiting_Brewing);3195;0
+(Waiting_Brewing);3196;0
+(Waiting_Brewing);3197;0
+(Waiting_Brewing);3198;0
+(Waiting_Brewing);3199;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3206;0
+(Waiting_Brewing);3207;0
+(Pressing button to stop_Stopping);3208;0
+(Pressing button to start,Waiting_Starting the brewing);3213;0
+(Waiting_Brewing);3214;0
+(Waiting_Brewing);3215;0
+(Waiting_Brewing);3216;0
+(Waiting_Brewing);3217;0
+(Waiting_Brewing);3218;0
+(Waiting_Brewing);3219;0
+(Waiting_Brewing);3220;0
+(Waiting_Brewing);3221;0
+(Waiting_Brewing);3222;0
+(Waiting_Brewing);3223;0
+(Pressing button to start,Waiting_Starting the brewing);3230;0
+(Waiting_Brewing);3231;0
+(Waiting_Brewing);3232;0
+(Waiting_Brewing);3233;0
+(Waiting_Brewing);3234;0
+(Waiting_Brewing);3235;0
+(Waiting_Brewing);3236;0
+(Waiting_Brewing);3237;0
+(Waiting_Brewing);3238;0
+(Waiting_Brewing);3239;0
+(Waiting_Brewing);3240;0
+(Pressing button to start,Waiting_Starting the brewing);3251;0
+(Waiting_Brewing);3252;0
+(Waiting_Brewing);3253;0
+(Pressing button to stop_Stopping);3254;0
+(Pressing button to start,Waiting_Starting the brewing);3258;0
+(Waiting_Brewing);3259;0
+(Waiting_Brewing);3260;0
+(Waiting_Brewing);3261;0
+(Waiting_Brewing);3262;0
+(Waiting_Brewing);3263;0
+(Waiting_Brewing);3264;0
+(Waiting_Brewing);3265;0
+(Waiting_Brewing);3266;0
+(Waiting_Brewing);3267;0
+(Waiting_Brewing);3268;0
+(Pressing button to start,Waiting_Starting the brewing);3275;0
+(Waiting_Brewing);3276;0
+(Waiting_Brewing);3277;0
+(Waiting_Brewing);3278;0
+(Waiting_Brewing);3279;0
+(Waiting_Brewing);3280;0
+(Waiting_Brewing);3281;0
+(Waiting_Brewing);3282;0
+(Waiting_Brewing);3283;0
+(Waiting_Brewing);3284;0
+(Waiting_Brewing);3285;0
+(Pressing button to start,Waiting_Starting the brewing);3290;0
+(Waiting_Brewing);3291;0
+(Pressing button to stop_Stopping);3292;0
+(Pressing button to start,Waiting_Starting the brewing);3300;0
+(Waiting_Brewing);3301;0
+(Waiting_Brewing);3302;0
+(Waiting_Brewing);3303;0
+(Waiting_Brewing);3304;0
+(Waiting_Brewing);3305;0
+(Waiting_Brewing);3306;0
+(Waiting_Brewing);3307;0
+(Waiting_Brewing);3308;0
+(Waiting_Brewing);3309;0
+(Waiting_Brewing);3310;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3317;0
+(Waiting_Brewing);3318;0
+(Waiting_Brewing);3319;0
+(Waiting_Brewing);3320;0
+(Waiting_Brewing);3321;0
+(Waiting_Brewing);3322;0
+(Waiting_Brewing);3323;0
+(Waiting_Brewing);3324;0
+(Waiting_Brewing);3325;0
+(Waiting_Brewing);3326;0
+(Waiting_Brewing);3327;0
+(Pressing button to start,Waiting_Starting the brewing);3332;0
+(Waiting_Brewing);3333;0
+(Waiting_Brewing);3334;0
+(Waiting_Brewing);3335;0
+(Waiting_Brewing);3336;0
+(Waiting_Brewing);3337;0
+(Waiting_Brewing);3338;0
+(Waiting_Brewing);3339;0
+(Waiting_Brewing);3340;0
+(Waiting_Brewing);3341;0
+(Waiting_Brewing);3342;0
+(Pressing button to start,Waiting_Starting the brewing);3347;0
+(Waiting_Brewing);3348;0
+(Waiting_Brewing);3349;0
+(Waiting_Brewing);3350;0
+(Pressing button to stop_Stopping);3351;0
+(Pressing button to start,Waiting_Starting the brewing);3355;0
+(Waiting_Brewing);3356;0
+(Waiting_Brewing);3357;0
+(Waiting_Brewing);3358;0
+(Waiting_Brewing);3359;0
+(Waiting_Brewing);3360;0
+(Waiting_Brewing);3361;0
+(Waiting_Brewing);3362;0
+(Waiting_Brewing);3363;0
+(Waiting_Brewing);3364;0
+(Waiting_Brewing);3365;0
+(Pressing button to start,Waiting_Starting the brewing);3370;0
+(Pressing button to stop_Stopping);3371;0
+(Pressing button to start,Waiting_Starting the brewing);3377;0
+(Waiting_Brewing);3378;0
+(Waiting_Brewing);3379;0
+(Waiting_Brewing);3380;0
+(Waiting_Brewing);3381;0
+(Waiting_Brewing);3382;0
+(Waiting_Brewing);3383;0
+(Waiting_Brewing);3384;0
+(Waiting_Brewing);3385;0
+(Waiting_Stopping);3386;0
+(Pressing button to start,Waiting_Starting the brewing);3390;0
+(Pressing button to stop_Stopping);3391;0
+(Pressing button to start,Waiting_Starting the brewing);3401;0
+(Waiting_Brewing);3402;0
+(Waiting_Brewing);3403;0
+(Waiting_Brewing);3404;0
+(Waiting_Brewing);3405;0
+(Waiting_Brewing);3406;0
+(Waiting_Brewing);3407;0
+(Waiting_Brewing);3408;0
+(Waiting_Brewing);3409;0
+(Waiting_Brewing);3410;0
+(Waiting_Brewing);3411;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3419;0
+(Waiting_Brewing);3420;0
+(Waiting_Brewing);3421;0
+(Waiting_Brewing);3422;0
+(Waiting_Brewing);3423;0
+(Waiting_Brewing);3424;0
+(Waiting_Brewing);3425;0
+(Waiting_Brewing);3426;0
+(Waiting_Brewing);3427;0
+(Waiting_Stopping);3428;0
+(Pressing button to start,Waiting_Starting the brewing);3432;0
+(Waiting_Brewing);3433;0
+(Waiting_Brewing);3434;0
+(Waiting_Brewing);3435;0
+(Waiting_Brewing);3436;0
+(Waiting_Brewing);3437;0
+(Waiting_Brewing);3438;0
+(Waiting_Brewing);3439;0
+(Waiting_Brewing);3440;0
+(Waiting_Brewing);3441;0
+(Waiting_Brewing);3442;0
+(Pressing button to start,Waiting_Starting the brewing);3446;0
+(Waiting_Brewing);3447;0
+(Waiting_Brewing);3448;0
+(Waiting_Brewing);3449;0
+(Pressing button to stop_Stopping);3450;0
+(Pressing button to start,Waiting_Starting the brewing);3457;0
+(Waiting_Brewing);3458;0
+(Waiting_Brewing);3459;0
+(Pressing button to stop_Stopping);3460;0
+(Pressing button to start,Waiting_Starting the brewing);3464;0
+(Waiting_Brewing);3465;0
+(Pressing button to stop_Stopping);3466;0
+(Pressing button to start,Waiting_Starting the brewing);3473;0
+(Waiting_Brewing);3474;0
+(Waiting_Brewing);3475;0
+(Waiting_Brewing);3476;0
+(Waiting_Brewing);3477;0
+(Waiting_Brewing);3478;0
+(Waiting_Brewing);3479;0
+(Waiting_Brewing);3480;0
+(Waiting_Brewing);3481;0
+(Waiting_Brewing);3482;0
+(Waiting_Brewing);3483;0
+(Pressing button to start,Waiting_Starting the brewing);3492;0
+(Waiting_Brewing);3493;0
+(Waiting_Brewing);3494;0
+(Waiting_Brewing);3495;0
+(Waiting_Brewing);3496;0
+(Waiting_Brewing);3497;0
+(Waiting_Brewing);3498;0
+(Waiting_Brewing);3499;0
+(Waiting_Brewing);3500;0
+(Waiting_Brewing);3501;0
+(Waiting_Brewing);3502;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3506;0
+(Waiting_Brewing);3507;0
+(Waiting_Brewing);3508;0
+(Waiting_Brewing);3509;0
+(Waiting_Brewing);3510;0
+(Waiting_Brewing);3511;0
+(Waiting_Brewing);3512;0
+(Waiting_Brewing);3513;0
+(Waiting_Brewing);3514;0
+(Waiting_Brewing);3515;0
+(Waiting_Brewing);3516;0
+(Pressing button to start,Waiting_Starting the brewing);3525;0
+(Waiting_Brewing);3526;0
+(Waiting_Brewing);3527;0
+(Waiting_Brewing);3528;0
+(Waiting_Brewing);3529;0
+(Waiting_Brewing);3530;0
+(Waiting_Brewing);3531;0
+(Waiting_Brewing);3532;0
+(Waiting_Brewing);3533;0
+(Waiting_Brewing);3534;0
+(Waiting_Brewing);3535;0
+(Pressing button to start,Waiting_Starting the brewing);3540;0
+(Waiting_Brewing);3541;0
+(Waiting_Brewing);3542;0
+(Waiting_Brewing);3543;0
+(Waiting_Brewing);3544;0
+(Waiting_Brewing);3545;0
+(Waiting_Brewing);3546;0
+(Waiting_Brewing);3547;0
+(Pressing button to stop_Stopping);3548;0
+(Pressing button to start,Waiting_Starting the brewing);3553;0
+(Waiting_Brewing);3554;0
+(Waiting_Stopping);3555;0
+(Pressing button to start,Waiting_Starting the brewing);3560;0
+(Waiting_Brewing);3561;0
+(Waiting_Brewing);3562;0
+(Waiting_Brewing);3563;0
+(Waiting_Brewing);3564;0
+(Waiting_Brewing);3565;0
+(Waiting_Brewing);3566;0
+(Waiting_Brewing);3567;0
+(Waiting_Brewing);3568;0
+(Waiting_Brewing);3569;0
+(Waiting_Brewing);3570;0
+(Pressing button to start,Waiting_Starting the brewing);3576;0
+(Waiting_Brewing);3577;0
+(Waiting_Brewing);3578;0
+(Waiting_Brewing);3579;0
+(Waiting_Brewing);3580;0
+(Pressing button to stop_Stopping);3581;0
+(Pressing button to start,Waiting_Starting the brewing);3587;0
+(Waiting_Brewing);3588;0
+(Waiting_Brewing);3589;0
+(Waiting_Brewing);3590;0
+(Waiting_Brewing);3591;0
+(Waiting_Brewing);3592;0
+(Waiting_Brewing);3593;0
+(Waiting_Brewing);3594;0
+(Waiting_Brewing);3595;0
+(Waiting_Brewing);3596;0
+(Waiting_Brewing);3597;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3604;0
+(Waiting_Brewing);3605;0
+(Waiting_Brewing);3606;0
+(Waiting_Brewing);3607;0
+(Waiting_Brewing);3608;0
+(Waiting_Brewing);3609;0
+(Pressing button to stop_Stopping);3610;0
+(Pressing button to start,Waiting_Starting the brewing);3616;0
+(Pressing button to stop_Stopping);3617;0
+(Pressing button to start,Waiting_Starting the brewing);3624;0
+(Waiting_Brewing);3625;0
+(Waiting_Brewing);3626;0
+(Waiting_Brewing);3627;0
+(Waiting_Brewing);3628;0
+(Waiting_Brewing);3629;0
+(Waiting_Brewing);3630;0
+(Waiting_Brewing);3631;0
+(Waiting_Brewing);3632;0
+(Waiting_Brewing);3633;0
+(Waiting_Brewing);3634;0
+(Pressing button to start,Waiting_Starting the brewing);3638;0
+(Waiting_Brewing);3639;0
+(Waiting_Brewing);3640;0
+(Waiting_Brewing);3641;0
+(Waiting_Brewing);3642;0
+(Waiting_Brewing);3643;0
+(Waiting_Brewing);3644;0
+(Waiting_Brewing);3645;0
+(Waiting_Brewing);3646;0
+(Waiting_Brewing);3647;0
+(Waiting_Brewing);3648;0
+(Pressing button to start,Waiting_Starting the brewing);3653;0
+(Waiting_Brewing);3654;0
+(Waiting_Brewing);3655;0
+(Waiting_Brewing);3656;0
+(Waiting_Brewing);3657;0
+(Waiting_Brewing);3658;0
+(Waiting_Brewing);3659;0
+(Waiting_Brewing);3660;0
+(Waiting_Brewing);3661;0
+(Waiting_Brewing);3662;0
+(Pressing button to stop_Stopping);3663;0
+(Pressing button to start,Waiting_Starting the brewing);3680;0
+(Waiting_Brewing);3681;0
+(Waiting_Brewing);3682;0
+(Waiting_Brewing);3683;0
+(Waiting_Brewing);3684;0
+(Waiting_Brewing);3685;0
+(Waiting_Brewing);3686;0
+(Waiting_Brewing);3687;0
+(Waiting_Brewing);3688;0
+(Waiting_Brewing);3689;0
+(Waiting_Brewing);3690;0
+(Pressing button to start,Waiting_Starting the brewing);3695;0
+(Waiting_Brewing);3696;0
+(Pressing button to stop_Stopping);3697;0
+(Pressing button to start,Waiting_Starting the brewing);3703;0
+(Waiting_Brewing);3704;0
+(Waiting_Brewing);3705;0
+(Waiting_Brewing);3706;0
+(Waiting_Brewing);3707;0
+(Waiting_Brewing);3708;0
+(Waiting_Brewing);3709;0
+(Waiting_Brewing);3710;0
+(Waiting_Brewing);3711;0
+(Pressing button to stop_Stopping);3712;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3717;0
+(Waiting_Brewing);3718;0
+(Waiting_Brewing);3719;0
+(Waiting_Brewing);3720;0
+(Waiting_Brewing);3721;0
+(Waiting_Brewing);3722;0
+(Waiting_Brewing);3723;0
+(Waiting_Brewing);3724;0
+(Waiting_Brewing);3725;0
+(Waiting_Brewing);3726;0
+(Waiting_Brewing);3727;0
+(Pressing button to start,Waiting_Starting the brewing);3733;0
+(Waiting_Brewing);3734;0
+(Waiting_Brewing);3735;0
+(Waiting_Brewing);3736;0
+(Waiting_Brewing);3737;0
+(Waiting_Brewing);3738;0
+(Waiting_Brewing);3739;0
+(Waiting_Brewing);3740;0
+(Waiting_Stopping);3741;0
+(Pressing button to start,Waiting_Starting the brewing);3747;0
+(Waiting_Brewing);3748;0
+(Waiting_Brewing);3749;0
+(Pressing button to stop_Stopping);3750;0
+(Pressing button to start,Waiting_Starting the brewing);3753;0
+(Waiting_Brewing);3754;0
+(Waiting_Brewing);3755;0
+(Waiting_Brewing);3756;0
+(Waiting_Brewing);3757;0
+(Waiting_Brewing);3758;0
+(Waiting_Brewing);3759;0
+(Waiting_Brewing);3760;0
+(Pressing button to stop_Stopping);3761;0
+(Pressing button to start,Waiting_Starting the brewing);3767;0
+(Waiting_Brewing);3768;0
+(Pressing button to stop_Stopping);3769;0
+(Pressing button to start,Waiting_Starting the brewing);3775;0
+(Waiting_Brewing);3776;0
+(Waiting_Brewing);3777;0
+(Waiting_Brewing);3778;0
+(Waiting_Brewing);3779;0
+(Waiting_Brewing);3780;0
+(Pressing button to stop_Stopping);3781;0
+(Pressing button to start,Waiting_Starting the brewing);3786;0
+(Waiting_Brewing);3787;0
+(Waiting_Brewing);3788;0
+(Waiting_Brewing);3789;0
+(Waiting_Brewing);3790;0
+(Waiting_Brewing);3791;0
+(Waiting_Brewing);3792;0
+(Pressing button to stop_Stopping);3793;0
+(Pressing button to start,Waiting_Starting the brewing);3797;0
+(Waiting_Brewing);3798;0
+(Waiting_Brewing);3799;0
+(Waiting_Brewing);3800;0
+(Pressing button to stop_Stopping);3801;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3805;0
+(Waiting_Brewing);3806;0
+(Waiting_Brewing);3807;0
+(Waiting_Brewing);3808;0
+(Waiting_Brewing);3809;0
+(Waiting_Brewing);3810;0
+(Waiting_Brewing);3811;0
+(Waiting_Brewing);3812;0
+(Waiting_Brewing);3813;0
+(Waiting_Brewing);3814;0
+(Waiting_Brewing);3815;0
+(Pressing button to start,Waiting_Starting the brewing);3821;0
+(Waiting_Brewing);3822;0
+(Waiting_Brewing);3823;0
+(Waiting_Brewing);3824;0
+(Waiting_Brewing);3825;0
+(Waiting_Brewing);3826;0
+(Waiting_Brewing);3827;0
+(Waiting_Brewing);3828;0
+(Waiting_Brewing);3829;0
+(Waiting_Brewing);3830;0
+(Waiting_Brewing);3831;0
+(Pressing button to start,Waiting_Starting the brewing);3837;0
+(Waiting_Brewing);3838;0
+(Waiting_Brewing);3839;0
+(Waiting_Brewing);3840;0
+(Waiting_Brewing);3841;0
+(Waiting_Brewing);3842;0
+(Waiting_Brewing);3843;0
+(Waiting_Brewing);3844;0
+(Waiting_Brewing);3845;0
+(Waiting_Brewing);3846;0
+(Waiting_Brewing);3847;0
+(Pressing button to start,Waiting_Starting the brewing);3853;0
+(Waiting_Brewing);3854;0
+(Waiting_Brewing);3855;0
+(Waiting_Brewing);3856;0
+(Waiting_Brewing);3857;0
+(Waiting_Brewing);3858;0
+(Waiting_Brewing);3859;0
+(Waiting_Brewing);3860;0
+(Waiting_Brewing);3861;0
+(Waiting_Brewing);3862;0
+(Waiting_Brewing);3863;0
+(Pressing button to start,Waiting_Starting the brewing);3881;0
+(Waiting_Brewing);3882;0
+(Waiting_Brewing);3883;0
+(Waiting_Brewing);3884;0
+(Waiting_Brewing);3885;0
+(Waiting_Brewing);3886;0
+(Waiting_Brewing);3887;0
+(Waiting_Brewing);3888;0
+(Waiting_Brewing);3889;0
+(Waiting_Brewing);3890;0
+(Waiting_Brewing);3891;0
+(Pressing button to start,Waiting_Starting the brewing);3894;0
+(Waiting_Brewing);3895;0
+(Waiting_Brewing);3896;0
+(Waiting_Brewing);3897;0
+(Waiting_Brewing);3898;0
+(Waiting_Brewing);3899;0
+(Waiting_Brewing);3900;0
+(Waiting_Brewing);3901;0
+(Waiting_Brewing);3902;0
+(Waiting_Brewing);3903;0
+(Waiting_Brewing);3904;0
+(Switching power on,Pressing button to start,Waiting_Starting the brewing);3920;0
+(Waiting_Brewing);3921;0
+(Waiting_Brewing);3922;0
+(Waiting_Brewing);3923;0
+(Waiting_Brewing);3924;0
+(Waiting_Brewing);3925;0
+(Waiting_Brewing);3926;0
+(Waiting_Brewing);3927;0
+(Waiting_Brewing);3928;0
+(Waiting_Brewing);3929;0
+(Waiting_Brewing);3930;0
+(Pressing button to start,Waiting_Starting the brewing);3934;0
+(Waiting_Brewing);3935;0
+(Waiting_Brewing);3936;0
+(Waiting_Brewing);3937;0
+(Waiting_Brewing);3938;0
+(Waiting_Brewing);3939;0
+(Waiting_Brewing);3940;0
+(Waiting_Brewing);3941;0
+(Waiting_Brewing);3942;0
+(Waiting_Brewing);3943;0
+(Waiting_Brewing);3944;0
+(Pressing button to start,Waiting_Starting the brewing);3949;0
+(Waiting_Brewing);3950;0
+(Waiting_Brewing);3951;0
+(Waiting_Brewing);3952;0
+(Waiting_Brewing);3953;0
+(Waiting_Brewing);3954;0
+(Waiting_Brewing);3955;0
+(Waiting_Brewing);3956;0
+(Waiting_Brewing);3957;0
+(Waiting_Brewing);3958;0
+(Waiting_Brewing);3959;0
+(Pressing button to start,Waiting_Starting the brewing);3963;0
+(Waiting_Brewing);3964;0
+(Waiting_Brewing);3965;0
+(Waiting_Brewing);3966;0
+(Waiting_Brewing);3967;0
+(Pressing button to stop_Stopping);3968;0
+(Pressing button to start,Waiting_Starting the brewing);3982;0
+(Waiting_Brewing);3983;0
+(Waiting_Brewing);3984;0
+(Waiting_Brewing);3985;0
+(Waiting_Brewing);3986;0
+(Waiting_Brewing);3987;0
+(Waiting_Brewing);3988;0
+(Waiting_Brewing);3989;0
+(Waiting_Brewing);3990;0
+(Pressing button to stop_Stopping);3991;0
+(Pressing button to start,Waiting_Starting the brewing);3996;0
+(Waiting_Brewing);3997;0
+(Waiting_Brewing);3998;0
+(Waiting_Brewing);3999;0

@@ -1,0 +1,168 @@
+(Press limegreen button_Voice tells todays tasks);1;x
+(Press limegreen button_Voice tells todays tasks);0;x
+(Press olivegreen button_Daily newsletter appears);2;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press olivegreen button_Daily newsletter appears);3;x
+(Press limegreen button_Voice tells todays tasks);4;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells todays tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells todays tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells todays tasks);0;x
+(Press limegreen button_Voice tells tomorrows tasks);5;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks,Daily newsletter appears);6;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press limegreen button_Voice tells tomorrows tasks);0;x
+(Press olivegreen button_Daily newsletter appears);0;x
+(Press olivegreen button_Holiday overview appears);7;x
+only one of the following two
+(Press limegreen button_Voice tells todays tasks);8;x
+(Press limegreen button_Voice tells next weeks tasks);9;x

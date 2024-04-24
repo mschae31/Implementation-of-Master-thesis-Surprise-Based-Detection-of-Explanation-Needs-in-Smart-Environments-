@@ -1,0 +1,391 @@
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);1;x
+(Waiting for Mixer_Mixing);2;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixer stops);3;x
+(Pressing the button to start Mixer_Nothing happens);4;x
+(Pressing the button to start Mixer_Nothing happens);5;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);6;x
+(Waiting for Mixer_Mixing);7;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixer stops);8;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixing);9;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Press button to stop Mixer_Mixing);10;x
+(Double press button to stop Mixer_Mixer stops);11;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixer stops);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Nothing happens);0;x
+(Pressing the button to start Mixer_Mixer shows a green light,Starting the mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Waiting for Mixer_Mixing);0;x
+(Double press button to stop Mixer_Mixing);12;x
+(Press button to stop Mixer_Mixer stops);13;x
